@@ -1,0 +1,3009 @@
+p1	p2	agree	ministry	c
+1	1	150	NULL	150
+2	1	94	NULL	150
+3	1	144	NULL	150
+4	1	150	NULL	150
+5	1	123	NULL	150
+6	1	107	NULL	150
+7	1	125	NULL	150
+14	1	90	NULL	150
+1	2	94	NULL	150
+2	2	150	NULL	150
+3	2	90	NULL	150
+4	2	94	NULL	150
+5	2	114	NULL	150
+6	2	96	NULL	150
+7	2	110	NULL	150
+14	2	105	NULL	150
+1	3	144	NULL	150
+2	3	90	NULL	150
+3	3	150	NULL	150
+4	3	144	NULL	150
+5	3	119	NULL	150
+6	3	111	NULL	150
+7	3	121	NULL	150
+14	3	86	NULL	150
+1	4	150	NULL	150
+2	4	94	NULL	150
+3	4	144	NULL	150
+4	4	150	NULL	150
+5	4	123	NULL	150
+6	4	107	NULL	150
+7	4	125	NULL	150
+14	4	90	NULL	150
+1	5	123	NULL	150
+2	5	114	NULL	150
+3	5	119	NULL	150
+4	5	123	NULL	150
+5	5	150	NULL	150
+6	5	88	NULL	150
+7	5	144	NULL	150
+14	5	107	NULL	150
+1	6	107	NULL	150
+2	6	96	NULL	150
+3	6	111	NULL	150
+4	6	107	NULL	150
+5	6	88	NULL	150
+6	6	150	NULL	150
+7	6	89	NULL	150
+14	6	77	NULL	150
+1	7	125	NULL	150
+2	7	110	NULL	150
+3	7	121	NULL	150
+4	7	125	NULL	150
+5	7	144	NULL	150
+6	7	89	NULL	150
+7	7	150	NULL	150
+14	7	110	NULL	150
+1	14	90	NULL	150
+2	14	105	NULL	150
+3	14	86	NULL	150
+4	14	90	NULL	150
+5	14	107	NULL	150
+6	14	77	NULL	150
+7	14	110	NULL	150
+14	14	150	NULL	150
+1	1	5		5
+2	1	4		5
+3	1	5		5
+4	1	5		5
+5	1	4		5
+6	1	5		5
+7	1	4		5
+14	1	3		5
+1	2	4		5
+2	2	5		5
+3	2	4		5
+4	2	4		5
+5	2	5		5
+6	2	4		5
+7	2	5		5
+14	2	4		5
+1	3	5		5
+2	3	4		5
+3	3	5		5
+4	3	5		5
+5	3	4		5
+6	3	5		5
+7	3	4		5
+14	3	3		5
+1	4	5		5
+2	4	4		5
+3	4	5		5
+4	4	5		5
+5	4	4		5
+6	4	5		5
+7	4	4		5
+14	4	3		5
+1	5	4		5
+2	5	5		5
+3	5	4		5
+4	5	4		5
+5	5	5		5
+6	5	4		5
+7	5	5		5
+14	5	4		5
+1	6	5		5
+2	6	4		5
+3	6	5		5
+4	6	5		5
+5	6	4		5
+6	6	5		5
+7	6	4		5
+14	6	3		5
+1	7	4		5
+2	7	5		5
+3	7	4		5
+4	7	4		5
+5	7	5		5
+6	7	4		5
+7	7	5		5
+14	7	4		5
+1	14	3		5
+2	14	4		5
+3	14	3		5
+4	14	3		5
+5	14	4		5
+6	14	3		5
+7	14	4		5
+14	14	5		5
+1	1	199	Beskæftigelsesministeriet	199
+2	1	146	Beskæftigelsesministeriet	199
+3	1	178	Beskæftigelsesministeriet	199
+4	1	199	Beskæftigelsesministeriet	199
+5	1	183	Beskæftigelsesministeriet	199
+6	1	53	Beskæftigelsesministeriet	199
+7	1	181	Beskæftigelsesministeriet	199
+14	1	160	Beskæftigelsesministeriet	199
+1	2	146	Beskæftigelsesministeriet	199
+2	2	199	Beskæftigelsesministeriet	199
+3	2	130	Beskæftigelsesministeriet	199
+4	2	146	Beskæftigelsesministeriet	199
+5	2	147	Beskæftigelsesministeriet	199
+6	2	76	Beskæftigelsesministeriet	199
+7	2	145	Beskæftigelsesministeriet	199
+14	2	135	Beskæftigelsesministeriet	199
+1	3	178	Beskæftigelsesministeriet	199
+2	3	130	Beskæftigelsesministeriet	199
+3	3	199	Beskæftigelsesministeriet	199
+4	3	178	Beskæftigelsesministeriet	199
+5	3	162	Beskæftigelsesministeriet	199
+6	3	71	Beskæftigelsesministeriet	199
+7	3	160	Beskæftigelsesministeriet	199
+14	3	142	Beskæftigelsesministeriet	199
+1	4	199	Beskæftigelsesministeriet	199
+2	4	146	Beskæftigelsesministeriet	199
+3	4	178	Beskæftigelsesministeriet	199
+4	4	199	Beskæftigelsesministeriet	199
+5	4	183	Beskæftigelsesministeriet	199
+6	4	53	Beskæftigelsesministeriet	199
+7	4	181	Beskæftigelsesministeriet	199
+14	4	160	Beskæftigelsesministeriet	199
+1	5	183	Beskæftigelsesministeriet	199
+2	5	147	Beskæftigelsesministeriet	199
+3	5	162	Beskæftigelsesministeriet	199
+4	5	183	Beskæftigelsesministeriet	199
+5	5	199	Beskæftigelsesministeriet	199
+6	5	37	Beskæftigelsesministeriet	199
+7	5	196	Beskæftigelsesministeriet	199
+14	5	174	Beskæftigelsesministeriet	199
+1	6	53	Beskæftigelsesministeriet	199
+2	6	76	Beskæftigelsesministeriet	199
+3	6	71	Beskæftigelsesministeriet	199
+4	6	53	Beskæftigelsesministeriet	199
+5	6	37	Beskæftigelsesministeriet	199
+6	6	199	Beskæftigelsesministeriet	199
+7	6	35	Beskæftigelsesministeriet	199
+14	6	27	Beskæftigelsesministeriet	199
+1	7	181	Beskæftigelsesministeriet	199
+2	7	145	Beskæftigelsesministeriet	199
+3	7	160	Beskæftigelsesministeriet	199
+4	7	181	Beskæftigelsesministeriet	199
+5	7	196	Beskæftigelsesministeriet	199
+6	7	35	Beskæftigelsesministeriet	199
+7	7	199	Beskæftigelsesministeriet	199
+14	7	177	Beskæftigelsesministeriet	199
+1	14	160	Beskæftigelsesministeriet	199
+2	14	135	Beskæftigelsesministeriet	199
+3	14	142	Beskæftigelsesministeriet	199
+4	14	160	Beskæftigelsesministeriet	199
+5	14	174	Beskæftigelsesministeriet	199
+6	14	27	Beskæftigelsesministeriet	199
+7	14	177	Beskæftigelsesministeriet	199
+14	14	199	Beskæftigelsesministeriet	199
+1	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	1	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	2	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	3	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	4	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	5	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	6	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	7	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+2	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+3	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+4	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+5	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+6	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+7	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+14	14	1	Beskæftigelsesministeriet, Forsvarsministeriet	1
+1	1	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	1	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	1	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	1	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	1	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	1	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	1	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	1	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	2	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	2	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	2	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	2	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	2	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	2	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	2	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	2	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	3	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	3	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	3	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	3	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	3	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	3	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	3	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	3	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	4	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	4	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	4	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	4	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	4	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	4	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	4	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	4	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	5	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	5	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	5	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	5	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	5	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	5	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	5	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	5	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	6	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	6	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	6	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	6	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	6	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	6	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	6	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	6	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	7	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	7	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	7	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	7	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	7	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	7	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	7	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	7	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	14	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+2	14	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+3	14	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+4	14	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+5	14	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+6	14	0	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+7	14	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+14	14	1	Beskæftigelsesministeriet, Ministeriet for Børn og Undervisning	1
+1	1	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	1	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	1	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	1	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	1	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	1	2	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	1	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	1	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	2	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	2	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	2	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	2	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	2	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	2	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	2	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	2	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	3	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	3	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	3	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	3	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	3	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	3	2	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	3	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	3	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	4	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	4	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	4	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	4	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	4	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	4	2	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	4	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	4	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	5	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	5	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	5	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	5	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	5	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	5	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	5	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	5	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	6	2	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	6	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	6	2	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	6	2	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	6	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	6	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	6	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	6	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	7	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	7	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	7	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	7	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	7	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	7	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	7	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	7	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	14	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+2	14	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+3	14	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+4	14	1	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+5	14	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+6	14	0	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+7	14	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+14	14	3	Beskæftigelsesministeriet, Social- og Integrationsministeriet	3
+1	1	100	Erhvervs- og Vækstministeriet	100
+2	1	74	Erhvervs- og Vækstministeriet	100
+3	1	79	Erhvervs- og Vækstministeriet	100
+4	1	100	Erhvervs- og Vækstministeriet	100
+5	1	89	Erhvervs- og Vækstministeriet	100
+6	1	54	Erhvervs- og Vækstministeriet	100
+7	1	86	Erhvervs- og Vækstministeriet	100
+14	1	65	Erhvervs- og Vækstministeriet	100
+1	2	74	Erhvervs- og Vækstministeriet	100
+2	2	100	Erhvervs- og Vækstministeriet	100
+3	2	61	Erhvervs- og Vækstministeriet	100
+4	2	74	Erhvervs- og Vækstministeriet	100
+5	2	77	Erhvervs- og Vækstministeriet	100
+6	2	43	Erhvervs- og Vækstministeriet	100
+7	2	80	Erhvervs- og Vækstministeriet	100
+14	2	60	Erhvervs- og Vækstministeriet	100
+1	3	79	Erhvervs- og Vækstministeriet	100
+2	3	61	Erhvervs- og Vækstministeriet	100
+3	3	100	Erhvervs- og Vækstministeriet	100
+4	3	79	Erhvervs- og Vækstministeriet	100
+5	3	68	Erhvervs- og Vækstministeriet	100
+6	3	70	Erhvervs- og Vækstministeriet	100
+7	3	67	Erhvervs- og Vækstministeriet	100
+14	3	50	Erhvervs- og Vækstministeriet	100
+1	4	100	Erhvervs- og Vækstministeriet	100
+2	4	74	Erhvervs- og Vækstministeriet	100
+3	4	79	Erhvervs- og Vækstministeriet	100
+4	4	100	Erhvervs- og Vækstministeriet	100
+5	4	89	Erhvervs- og Vækstministeriet	100
+6	4	54	Erhvervs- og Vækstministeriet	100
+7	4	86	Erhvervs- og Vækstministeriet	100
+14	4	65	Erhvervs- og Vækstministeriet	100
+1	5	89	Erhvervs- og Vækstministeriet	100
+2	5	77	Erhvervs- og Vækstministeriet	100
+3	5	68	Erhvervs- og Vækstministeriet	100
+4	5	89	Erhvervs- og Vækstministeriet	100
+5	5	100	Erhvervs- og Vækstministeriet	100
+6	5	45	Erhvervs- og Vækstministeriet	100
+7	5	95	Erhvervs- og Vækstministeriet	100
+14	5	68	Erhvervs- og Vækstministeriet	100
+1	6	54	Erhvervs- og Vækstministeriet	100
+2	6	43	Erhvervs- og Vækstministeriet	100
+3	6	70	Erhvervs- og Vækstministeriet	100
+4	6	54	Erhvervs- og Vækstministeriet	100
+5	6	45	Erhvervs- og Vækstministeriet	100
+6	6	100	Erhvervs- og Vækstministeriet	100
+7	6	46	Erhvervs- og Vækstministeriet	100
+14	6	38	Erhvervs- og Vækstministeriet	100
+1	7	86	Erhvervs- og Vækstministeriet	100
+2	7	80	Erhvervs- og Vækstministeriet	100
+3	7	67	Erhvervs- og Vækstministeriet	100
+4	7	86	Erhvervs- og Vækstministeriet	100
+5	7	95	Erhvervs- og Vækstministeriet	100
+6	7	46	Erhvervs- og Vækstministeriet	100
+7	7	100	Erhvervs- og Vækstministeriet	100
+14	7	66	Erhvervs- og Vækstministeriet	100
+1	14	65	Erhvervs- og Vækstministeriet	100
+2	14	60	Erhvervs- og Vækstministeriet	100
+3	14	50	Erhvervs- og Vækstministeriet	100
+4	14	65	Erhvervs- og Vækstministeriet	100
+5	14	68	Erhvervs- og Vækstministeriet	100
+6	14	38	Erhvervs- og Vækstministeriet	100
+7	14	66	Erhvervs- og Vækstministeriet	100
+14	14	100	Erhvervs- og Vækstministeriet	100
+1	1	4	Europaministeriet	4
+2	1	1	Europaministeriet	4
+3	1	4	Europaministeriet	4
+4	1	4	Europaministeriet	4
+5	1	4	Europaministeriet	4
+6	1	1	Europaministeriet	4
+7	1	4	Europaministeriet	4
+14	1	1	Europaministeriet	4
+1	2	1	Europaministeriet	4
+2	2	4	Europaministeriet	4
+3	2	1	Europaministeriet	4
+4	2	1	Europaministeriet	4
+5	2	1	Europaministeriet	4
+6	2	4	Europaministeriet	4
+7	2	1	Europaministeriet	4
+14	2	3	Europaministeriet	4
+1	3	4	Europaministeriet	4
+2	3	1	Europaministeriet	4
+3	3	4	Europaministeriet	4
+4	3	4	Europaministeriet	4
+5	3	4	Europaministeriet	4
+6	3	1	Europaministeriet	4
+7	3	4	Europaministeriet	4
+14	3	1	Europaministeriet	4
+1	4	4	Europaministeriet	4
+2	4	1	Europaministeriet	4
+3	4	4	Europaministeriet	4
+4	4	4	Europaministeriet	4
+5	4	4	Europaministeriet	4
+6	4	1	Europaministeriet	4
+7	4	4	Europaministeriet	4
+14	4	1	Europaministeriet	4
+1	5	4	Europaministeriet	4
+2	5	1	Europaministeriet	4
+3	5	4	Europaministeriet	4
+4	5	4	Europaministeriet	4
+5	5	4	Europaministeriet	4
+6	5	1	Europaministeriet	4
+7	5	4	Europaministeriet	4
+14	5	1	Europaministeriet	4
+1	6	1	Europaministeriet	4
+2	6	4	Europaministeriet	4
+3	6	1	Europaministeriet	4
+4	6	1	Europaministeriet	4
+5	6	1	Europaministeriet	4
+6	6	4	Europaministeriet	4
+7	6	1	Europaministeriet	4
+14	6	3	Europaministeriet	4
+1	7	4	Europaministeriet	4
+2	7	1	Europaministeriet	4
+3	7	4	Europaministeriet	4
+4	7	4	Europaministeriet	4
+5	7	4	Europaministeriet	4
+6	7	1	Europaministeriet	4
+7	7	4	Europaministeriet	4
+14	7	1	Europaministeriet	4
+1	14	1	Europaministeriet	4
+2	14	3	Europaministeriet	4
+3	14	1	Europaministeriet	4
+4	14	1	Europaministeriet	4
+5	14	1	Europaministeriet	4
+6	14	3	Europaministeriet	4
+7	14	1	Europaministeriet	4
+14	14	4	Europaministeriet	4
+1	1	242	Finansministeriet	242
+2	1	109	Finansministeriet	242
+3	1	241	Finansministeriet	242
+4	1	242	Finansministeriet	242
+5	1	157	Finansministeriet	242
+6	1	209	Finansministeriet	242
+7	1	122	Finansministeriet	242
+14	1	101	Finansministeriet	242
+1	2	109	Finansministeriet	242
+2	2	242	Finansministeriet	242
+3	2	109	Finansministeriet	242
+4	2	109	Finansministeriet	242
+5	2	140	Finansministeriet	242
+6	2	111	Finansministeriet	242
+7	2	117	Finansministeriet	242
+14	2	75	Finansministeriet	242
+1	3	241	Finansministeriet	242
+2	3	109	Finansministeriet	242
+3	3	242	Finansministeriet	242
+4	3	241	Finansministeriet	242
+5	3	156	Finansministeriet	242
+6	3	209	Finansministeriet	242
+7	3	121	Finansministeriet	242
+14	3	100	Finansministeriet	242
+1	4	242	Finansministeriet	242
+2	4	109	Finansministeriet	242
+3	4	241	Finansministeriet	242
+4	4	242	Finansministeriet	242
+5	4	157	Finansministeriet	242
+6	4	209	Finansministeriet	242
+7	4	122	Finansministeriet	242
+14	4	101	Finansministeriet	242
+1	5	157	Finansministeriet	242
+2	5	140	Finansministeriet	242
+3	5	156	Finansministeriet	242
+4	5	157	Finansministeriet	242
+5	5	242	Finansministeriet	242
+6	5	124	Finansministeriet	242
+7	5	180	Finansministeriet	242
+14	5	117	Finansministeriet	242
+1	6	209	Finansministeriet	242
+2	6	111	Finansministeriet	242
+3	6	209	Finansministeriet	242
+4	6	209	Finansministeriet	242
+5	6	124	Finansministeriet	242
+6	6	242	Finansministeriet	242
+7	6	93	Finansministeriet	242
+14	6	78	Finansministeriet	242
+1	7	122	Finansministeriet	242
+2	7	117	Finansministeriet	242
+3	7	121	Finansministeriet	242
+4	7	122	Finansministeriet	242
+5	7	180	Finansministeriet	242
+6	7	93	Finansministeriet	242
+7	7	242	Finansministeriet	242
+14	7	126	Finansministeriet	242
+1	14	101	Finansministeriet	242
+2	14	75	Finansministeriet	242
+3	14	100	Finansministeriet	242
+4	14	101	Finansministeriet	242
+5	14	117	Finansministeriet	242
+6	14	78	Finansministeriet	242
+7	14	126	Finansministeriet	242
+14	14	242	Finansministeriet	242
+1	1	16	Folketinget	16
+2	1	16	Folketinget	16
+3	1	16	Folketinget	16
+4	1	16	Folketinget	16
+5	1	14	Folketinget	16
+6	1	16	Folketinget	16
+7	1	15	Folketinget	16
+14	1	15	Folketinget	16
+1	2	16	Folketinget	16
+2	2	16	Folketinget	16
+3	2	16	Folketinget	16
+4	2	16	Folketinget	16
+5	2	14	Folketinget	16
+6	2	16	Folketinget	16
+7	2	15	Folketinget	16
+14	2	15	Folketinget	16
+1	3	16	Folketinget	16
+2	3	16	Folketinget	16
+3	3	16	Folketinget	16
+4	3	16	Folketinget	16
+5	3	14	Folketinget	16
+6	3	16	Folketinget	16
+7	3	15	Folketinget	16
+14	3	15	Folketinget	16
+1	4	16	Folketinget	16
+2	4	16	Folketinget	16
+3	4	16	Folketinget	16
+4	4	16	Folketinget	16
+5	4	14	Folketinget	16
+6	4	16	Folketinget	16
+7	4	15	Folketinget	16
+14	4	15	Folketinget	16
+1	5	14	Folketinget	16
+2	5	14	Folketinget	16
+3	5	14	Folketinget	16
+4	5	14	Folketinget	16
+5	5	16	Folketinget	16
+6	5	14	Folketinget	16
+7	5	13	Folketinget	16
+14	5	13	Folketinget	16
+1	6	16	Folketinget	16
+2	6	16	Folketinget	16
+3	6	16	Folketinget	16
+4	6	16	Folketinget	16
+5	6	14	Folketinget	16
+6	6	16	Folketinget	16
+7	6	15	Folketinget	16
+14	6	15	Folketinget	16
+1	7	15	Folketinget	16
+2	7	15	Folketinget	16
+3	7	15	Folketinget	16
+4	7	15	Folketinget	16
+5	7	13	Folketinget	16
+6	7	15	Folketinget	16
+7	7	16	Folketinget	16
+14	7	16	Folketinget	16
+1	14	15	Folketinget	16
+2	14	15	Folketinget	16
+3	14	15	Folketinget	16
+4	14	15	Folketinget	16
+5	14	13	Folketinget	16
+6	14	15	Folketinget	16
+7	14	16	Folketinget	16
+14	14	16	Folketinget	16
+1	1	15	Forsvarsministeriet	15
+2	1	13	Forsvarsministeriet	15
+3	1	15	Forsvarsministeriet	15
+4	1	15	Forsvarsministeriet	15
+5	1	13	Forsvarsministeriet	15
+6	1	5	Forsvarsministeriet	15
+7	1	13	Forsvarsministeriet	15
+14	1	6	Forsvarsministeriet	15
+1	2	13	Forsvarsministeriet	15
+2	2	15	Forsvarsministeriet	15
+3	2	13	Forsvarsministeriet	15
+4	2	13	Forsvarsministeriet	15
+5	2	15	Forsvarsministeriet	15
+6	2	3	Forsvarsministeriet	15
+7	2	15	Forsvarsministeriet	15
+14	2	7	Forsvarsministeriet	15
+1	3	15	Forsvarsministeriet	15
+2	3	13	Forsvarsministeriet	15
+3	3	15	Forsvarsministeriet	15
+4	3	15	Forsvarsministeriet	15
+5	3	13	Forsvarsministeriet	15
+6	3	5	Forsvarsministeriet	15
+7	3	13	Forsvarsministeriet	15
+14	3	6	Forsvarsministeriet	15
+1	4	15	Forsvarsministeriet	15
+2	4	13	Forsvarsministeriet	15
+3	4	15	Forsvarsministeriet	15
+4	4	15	Forsvarsministeriet	15
+5	4	13	Forsvarsministeriet	15
+6	4	5	Forsvarsministeriet	15
+7	4	13	Forsvarsministeriet	15
+14	4	6	Forsvarsministeriet	15
+1	5	13	Forsvarsministeriet	15
+2	5	15	Forsvarsministeriet	15
+3	5	13	Forsvarsministeriet	15
+4	5	13	Forsvarsministeriet	15
+5	5	15	Forsvarsministeriet	15
+6	5	3	Forsvarsministeriet	15
+7	5	15	Forsvarsministeriet	15
+14	5	7	Forsvarsministeriet	15
+1	6	5	Forsvarsministeriet	15
+2	6	3	Forsvarsministeriet	15
+3	6	5	Forsvarsministeriet	15
+4	6	5	Forsvarsministeriet	15
+5	6	3	Forsvarsministeriet	15
+6	6	15	Forsvarsministeriet	15
+7	6	3	Forsvarsministeriet	15
+14	6	8	Forsvarsministeriet	15
+1	7	13	Forsvarsministeriet	15
+2	7	15	Forsvarsministeriet	15
+3	7	13	Forsvarsministeriet	15
+4	7	13	Forsvarsministeriet	15
+5	7	15	Forsvarsministeriet	15
+6	7	3	Forsvarsministeriet	15
+7	7	15	Forsvarsministeriet	15
+14	7	7	Forsvarsministeriet	15
+1	14	6	Forsvarsministeriet	15
+2	14	7	Forsvarsministeriet	15
+3	14	6	Forsvarsministeriet	15
+4	14	6	Forsvarsministeriet	15
+5	14	7	Forsvarsministeriet	15
+6	14	8	Forsvarsministeriet	15
+7	14	7	Forsvarsministeriet	15
+14	14	15	Forsvarsministeriet	15
+1	1	2	Forsvarsministeriet, Justitsministeriet	2
+2	1	1	Forsvarsministeriet, Justitsministeriet	2
+3	1	2	Forsvarsministeriet, Justitsministeriet	2
+4	1	2	Forsvarsministeriet, Justitsministeriet	2
+5	1	1	Forsvarsministeriet, Justitsministeriet	2
+6	1	1	Forsvarsministeriet, Justitsministeriet	2
+7	1	1	Forsvarsministeriet, Justitsministeriet	2
+14	1	1	Forsvarsministeriet, Justitsministeriet	2
+1	2	1	Forsvarsministeriet, Justitsministeriet	2
+2	2	2	Forsvarsministeriet, Justitsministeriet	2
+3	2	1	Forsvarsministeriet, Justitsministeriet	2
+4	2	1	Forsvarsministeriet, Justitsministeriet	2
+5	2	2	Forsvarsministeriet, Justitsministeriet	2
+6	2	0	Forsvarsministeriet, Justitsministeriet	2
+7	2	2	Forsvarsministeriet, Justitsministeriet	2
+14	2	2	Forsvarsministeriet, Justitsministeriet	2
+1	3	2	Forsvarsministeriet, Justitsministeriet	2
+2	3	1	Forsvarsministeriet, Justitsministeriet	2
+3	3	2	Forsvarsministeriet, Justitsministeriet	2
+4	3	2	Forsvarsministeriet, Justitsministeriet	2
+5	3	1	Forsvarsministeriet, Justitsministeriet	2
+6	3	1	Forsvarsministeriet, Justitsministeriet	2
+7	3	1	Forsvarsministeriet, Justitsministeriet	2
+14	3	1	Forsvarsministeriet, Justitsministeriet	2
+1	4	2	Forsvarsministeriet, Justitsministeriet	2
+2	4	1	Forsvarsministeriet, Justitsministeriet	2
+3	4	2	Forsvarsministeriet, Justitsministeriet	2
+4	4	2	Forsvarsministeriet, Justitsministeriet	2
+5	4	1	Forsvarsministeriet, Justitsministeriet	2
+6	4	1	Forsvarsministeriet, Justitsministeriet	2
+7	4	1	Forsvarsministeriet, Justitsministeriet	2
+14	4	1	Forsvarsministeriet, Justitsministeriet	2
+1	5	1	Forsvarsministeriet, Justitsministeriet	2
+2	5	2	Forsvarsministeriet, Justitsministeriet	2
+3	5	1	Forsvarsministeriet, Justitsministeriet	2
+4	5	1	Forsvarsministeriet, Justitsministeriet	2
+5	5	2	Forsvarsministeriet, Justitsministeriet	2
+6	5	0	Forsvarsministeriet, Justitsministeriet	2
+7	5	2	Forsvarsministeriet, Justitsministeriet	2
+14	5	2	Forsvarsministeriet, Justitsministeriet	2
+1	6	1	Forsvarsministeriet, Justitsministeriet	2
+2	6	0	Forsvarsministeriet, Justitsministeriet	2
+3	6	1	Forsvarsministeriet, Justitsministeriet	2
+4	6	1	Forsvarsministeriet, Justitsministeriet	2
+5	6	0	Forsvarsministeriet, Justitsministeriet	2
+6	6	2	Forsvarsministeriet, Justitsministeriet	2
+7	6	0	Forsvarsministeriet, Justitsministeriet	2
+14	6	0	Forsvarsministeriet, Justitsministeriet	2
+1	7	1	Forsvarsministeriet, Justitsministeriet	2
+2	7	2	Forsvarsministeriet, Justitsministeriet	2
+3	7	1	Forsvarsministeriet, Justitsministeriet	2
+4	7	1	Forsvarsministeriet, Justitsministeriet	2
+5	7	2	Forsvarsministeriet, Justitsministeriet	2
+6	7	0	Forsvarsministeriet, Justitsministeriet	2
+7	7	2	Forsvarsministeriet, Justitsministeriet	2
+14	7	2	Forsvarsministeriet, Justitsministeriet	2
+1	14	1	Forsvarsministeriet, Justitsministeriet	2
+2	14	2	Forsvarsministeriet, Justitsministeriet	2
+3	14	1	Forsvarsministeriet, Justitsministeriet	2
+4	14	1	Forsvarsministeriet, Justitsministeriet	2
+5	14	2	Forsvarsministeriet, Justitsministeriet	2
+6	14	0	Forsvarsministeriet, Justitsministeriet	2
+7	14	2	Forsvarsministeriet, Justitsministeriet	2
+14	14	2	Forsvarsministeriet, Justitsministeriet	2
+1	1	1	Handels- og europaministeriet	1
+2	1	1	Handels- og europaministeriet	1
+3	1	1	Handels- og europaministeriet	1
+4	1	1	Handels- og europaministeriet	1
+5	1	1	Handels- og europaministeriet	1
+6	1	1	Handels- og europaministeriet	1
+7	1	1	Handels- og europaministeriet	1
+14	1	1	Handels- og europaministeriet	1
+1	2	1	Handels- og europaministeriet	1
+2	2	1	Handels- og europaministeriet	1
+3	2	1	Handels- og europaministeriet	1
+4	2	1	Handels- og europaministeriet	1
+5	2	1	Handels- og europaministeriet	1
+6	2	1	Handels- og europaministeriet	1
+7	2	1	Handels- og europaministeriet	1
+14	2	1	Handels- og europaministeriet	1
+1	3	1	Handels- og europaministeriet	1
+2	3	1	Handels- og europaministeriet	1
+3	3	1	Handels- og europaministeriet	1
+4	3	1	Handels- og europaministeriet	1
+5	3	1	Handels- og europaministeriet	1
+6	3	1	Handels- og europaministeriet	1
+7	3	1	Handels- og europaministeriet	1
+14	3	1	Handels- og europaministeriet	1
+1	4	1	Handels- og europaministeriet	1
+2	4	1	Handels- og europaministeriet	1
+3	4	1	Handels- og europaministeriet	1
+4	4	1	Handels- og europaministeriet	1
+5	4	1	Handels- og europaministeriet	1
+6	4	1	Handels- og europaministeriet	1
+7	4	1	Handels- og europaministeriet	1
+14	4	1	Handels- og europaministeriet	1
+1	5	1	Handels- og europaministeriet	1
+2	5	1	Handels- og europaministeriet	1
+3	5	1	Handels- og europaministeriet	1
+4	5	1	Handels- og europaministeriet	1
+5	5	1	Handels- og europaministeriet	1
+6	5	1	Handels- og europaministeriet	1
+7	5	1	Handels- og europaministeriet	1
+14	5	1	Handels- og europaministeriet	1
+1	6	1	Handels- og europaministeriet	1
+2	6	1	Handels- og europaministeriet	1
+3	6	1	Handels- og europaministeriet	1
+4	6	1	Handels- og europaministeriet	1
+5	6	1	Handels- og europaministeriet	1
+6	6	1	Handels- og europaministeriet	1
+7	6	1	Handels- og europaministeriet	1
+14	6	1	Handels- og europaministeriet	1
+1	7	1	Handels- og europaministeriet	1
+2	7	1	Handels- og europaministeriet	1
+3	7	1	Handels- og europaministeriet	1
+4	7	1	Handels- og europaministeriet	1
+5	7	1	Handels- og europaministeriet	1
+6	7	1	Handels- og europaministeriet	1
+7	7	1	Handels- og europaministeriet	1
+14	7	1	Handels- og europaministeriet	1
+1	14	1	Handels- og europaministeriet	1
+2	14	1	Handels- og europaministeriet	1
+3	14	1	Handels- og europaministeriet	1
+4	14	1	Handels- og europaministeriet	1
+5	14	1	Handels- og europaministeriet	1
+6	14	1	Handels- og europaministeriet	1
+7	14	1	Handels- og europaministeriet	1
+14	14	1	Handels- og europaministeriet	1
+1	1	1	Handels- og Investeringsministeriet	1
+2	1	1	Handels- og Investeringsministeriet	1
+3	1	1	Handels- og Investeringsministeriet	1
+4	1	1	Handels- og Investeringsministeriet	1
+5	1	1	Handels- og Investeringsministeriet	1
+6	1	0	Handels- og Investeringsministeriet	1
+7	1	1	Handels- og Investeringsministeriet	1
+14	1	0	Handels- og Investeringsministeriet	1
+1	2	1	Handels- og Investeringsministeriet	1
+2	2	1	Handels- og Investeringsministeriet	1
+3	2	1	Handels- og Investeringsministeriet	1
+4	2	1	Handels- og Investeringsministeriet	1
+5	2	1	Handels- og Investeringsministeriet	1
+6	2	0	Handels- og Investeringsministeriet	1
+7	2	1	Handels- og Investeringsministeriet	1
+14	2	0	Handels- og Investeringsministeriet	1
+1	3	1	Handels- og Investeringsministeriet	1
+2	3	1	Handels- og Investeringsministeriet	1
+3	3	1	Handels- og Investeringsministeriet	1
+4	3	1	Handels- og Investeringsministeriet	1
+5	3	1	Handels- og Investeringsministeriet	1
+6	3	0	Handels- og Investeringsministeriet	1
+7	3	1	Handels- og Investeringsministeriet	1
+14	3	0	Handels- og Investeringsministeriet	1
+1	4	1	Handels- og Investeringsministeriet	1
+2	4	1	Handels- og Investeringsministeriet	1
+3	4	1	Handels- og Investeringsministeriet	1
+4	4	1	Handels- og Investeringsministeriet	1
+5	4	1	Handels- og Investeringsministeriet	1
+6	4	0	Handels- og Investeringsministeriet	1
+7	4	1	Handels- og Investeringsministeriet	1
+14	4	0	Handels- og Investeringsministeriet	1
+1	5	1	Handels- og Investeringsministeriet	1
+2	5	1	Handels- og Investeringsministeriet	1
+3	5	1	Handels- og Investeringsministeriet	1
+4	5	1	Handels- og Investeringsministeriet	1
+5	5	1	Handels- og Investeringsministeriet	1
+6	5	0	Handels- og Investeringsministeriet	1
+7	5	1	Handels- og Investeringsministeriet	1
+14	5	0	Handels- og Investeringsministeriet	1
+1	6	0	Handels- og Investeringsministeriet	1
+2	6	0	Handels- og Investeringsministeriet	1
+3	6	0	Handels- og Investeringsministeriet	1
+4	6	0	Handels- og Investeringsministeriet	1
+5	6	0	Handels- og Investeringsministeriet	1
+6	6	1	Handels- og Investeringsministeriet	1
+7	6	0	Handels- og Investeringsministeriet	1
+14	6	1	Handels- og Investeringsministeriet	1
+1	7	1	Handels- og Investeringsministeriet	1
+2	7	1	Handels- og Investeringsministeriet	1
+3	7	1	Handels- og Investeringsministeriet	1
+4	7	1	Handels- og Investeringsministeriet	1
+5	7	1	Handels- og Investeringsministeriet	1
+6	7	0	Handels- og Investeringsministeriet	1
+7	7	1	Handels- og Investeringsministeriet	1
+14	7	0	Handels- og Investeringsministeriet	1
+1	14	0	Handels- og Investeringsministeriet	1
+2	14	0	Handels- og Investeringsministeriet	1
+3	14	0	Handels- og Investeringsministeriet	1
+4	14	0	Handels- og Investeringsministeriet	1
+5	14	0	Handels- og Investeringsministeriet	1
+6	14	1	Handels- og Investeringsministeriet	1
+7	14	0	Handels- og Investeringsministeriet	1
+14	14	1	Handels- og Investeringsministeriet	1
+1	1	2	Handels- og Udviklingsministeriet	2
+2	1	1	Handels- og Udviklingsministeriet	2
+3	1	1	Handels- og Udviklingsministeriet	2
+4	1	2	Handels- og Udviklingsministeriet	2
+5	1	2	Handels- og Udviklingsministeriet	2
+6	1	0	Handels- og Udviklingsministeriet	2
+7	1	2	Handels- og Udviklingsministeriet	2
+14	1	2	Handels- og Udviklingsministeriet	2
+1	2	1	Handels- og Udviklingsministeriet	2
+2	2	2	Handels- og Udviklingsministeriet	2
+3	2	2	Handels- og Udviklingsministeriet	2
+4	2	1	Handels- og Udviklingsministeriet	2
+5	2	1	Handels- og Udviklingsministeriet	2
+6	2	1	Handels- og Udviklingsministeriet	2
+7	2	1	Handels- og Udviklingsministeriet	2
+14	2	1	Handels- og Udviklingsministeriet	2
+1	3	1	Handels- og Udviklingsministeriet	2
+2	3	2	Handels- og Udviklingsministeriet	2
+3	3	2	Handels- og Udviklingsministeriet	2
+4	3	1	Handels- og Udviklingsministeriet	2
+5	3	1	Handels- og Udviklingsministeriet	2
+6	3	1	Handels- og Udviklingsministeriet	2
+7	3	1	Handels- og Udviklingsministeriet	2
+14	3	1	Handels- og Udviklingsministeriet	2
+1	4	2	Handels- og Udviklingsministeriet	2
+2	4	1	Handels- og Udviklingsministeriet	2
+3	4	1	Handels- og Udviklingsministeriet	2
+4	4	2	Handels- og Udviklingsministeriet	2
+5	4	2	Handels- og Udviklingsministeriet	2
+6	4	0	Handels- og Udviklingsministeriet	2
+7	4	2	Handels- og Udviklingsministeriet	2
+14	4	2	Handels- og Udviklingsministeriet	2
+1	5	2	Handels- og Udviklingsministeriet	2
+2	5	1	Handels- og Udviklingsministeriet	2
+3	5	1	Handels- og Udviklingsministeriet	2
+4	5	2	Handels- og Udviklingsministeriet	2
+5	5	2	Handels- og Udviklingsministeriet	2
+6	5	0	Handels- og Udviklingsministeriet	2
+7	5	2	Handels- og Udviklingsministeriet	2
+14	5	2	Handels- og Udviklingsministeriet	2
+1	6	0	Handels- og Udviklingsministeriet	2
+2	6	1	Handels- og Udviklingsministeriet	2
+3	6	1	Handels- og Udviklingsministeriet	2
+4	6	0	Handels- og Udviklingsministeriet	2
+5	6	0	Handels- og Udviklingsministeriet	2
+6	6	2	Handels- og Udviklingsministeriet	2
+7	6	0	Handels- og Udviklingsministeriet	2
+14	6	0	Handels- og Udviklingsministeriet	2
+1	7	2	Handels- og Udviklingsministeriet	2
+2	7	1	Handels- og Udviklingsministeriet	2
+3	7	1	Handels- og Udviklingsministeriet	2
+4	7	2	Handels- og Udviklingsministeriet	2
+5	7	2	Handels- og Udviklingsministeriet	2
+6	7	0	Handels- og Udviklingsministeriet	2
+7	7	2	Handels- og Udviklingsministeriet	2
+14	7	2	Handels- og Udviklingsministeriet	2
+1	14	2	Handels- og Udviklingsministeriet	2
+2	14	1	Handels- og Udviklingsministeriet	2
+3	14	1	Handels- og Udviklingsministeriet	2
+4	14	2	Handels- og Udviklingsministeriet	2
+5	14	2	Handels- og Udviklingsministeriet	2
+6	14	0	Handels- og Udviklingsministeriet	2
+7	14	2	Handels- og Udviklingsministeriet	2
+14	14	2	Handels- og Udviklingsministeriet	2
+1	1	240	Justitsministeriet	240
+2	1	82	Justitsministeriet	240
+3	1	235	Justitsministeriet	240
+4	1	240	Justitsministeriet	240
+5	1	144	Justitsministeriet	240
+6	1	181	Justitsministeriet	240
+7	1	151	Justitsministeriet	240
+14	1	119	Justitsministeriet	240
+1	2	82	Justitsministeriet	240
+2	2	240	Justitsministeriet	240
+3	2	83	Justitsministeriet	240
+4	2	82	Justitsministeriet	240
+5	2	154	Justitsministeriet	240
+6	2	68	Justitsministeriet	240
+7	2	156	Justitsministeriet	240
+14	2	144	Justitsministeriet	240
+1	3	235	Justitsministeriet	240
+2	3	83	Justitsministeriet	240
+3	3	240	Justitsministeriet	240
+4	3	235	Justitsministeriet	240
+5	3	141	Justitsministeriet	240
+6	3	186	Justitsministeriet	240
+7	3	148	Justitsministeriet	240
+14	3	122	Justitsministeriet	240
+1	4	240	Justitsministeriet	240
+2	4	82	Justitsministeriet	240
+3	4	235	Justitsministeriet	240
+4	4	240	Justitsministeriet	240
+5	4	144	Justitsministeriet	240
+6	4	181	Justitsministeriet	240
+7	4	151	Justitsministeriet	240
+14	4	119	Justitsministeriet	240
+1	5	144	Justitsministeriet	240
+2	5	154	Justitsministeriet	240
+3	5	141	Justitsministeriet	240
+4	5	144	Justitsministeriet	240
+5	5	240	Justitsministeriet	240
+6	5	95	Justitsministeriet	240
+7	5	220	Justitsministeriet	240
+14	5	166	Justitsministeriet	240
+1	6	181	Justitsministeriet	240
+2	6	68	Justitsministeriet	240
+3	6	186	Justitsministeriet	240
+4	6	181	Justitsministeriet	240
+5	6	95	Justitsministeriet	240
+6	6	240	Justitsministeriet	240
+7	6	100	Justitsministeriet	240
+14	6	125	Justitsministeriet	240
+1	7	151	Justitsministeriet	240
+2	7	156	Justitsministeriet	240
+3	7	148	Justitsministeriet	240
+4	7	151	Justitsministeriet	240
+5	7	220	Justitsministeriet	240
+6	7	100	Justitsministeriet	240
+7	7	240	Justitsministeriet	240
+14	7	157	Justitsministeriet	240
+1	14	119	Justitsministeriet	240
+2	14	144	Justitsministeriet	240
+3	14	122	Justitsministeriet	240
+4	14	119	Justitsministeriet	240
+5	14	166	Justitsministeriet	240
+6	14	125	Justitsministeriet	240
+7	14	157	Justitsministeriet	240
+14	14	240	Justitsministeriet	240
+1	1	1	Justitsministeriet, Social- og Integrationsministeriet	1
+2	1	0	Justitsministeriet, Social- og Integrationsministeriet	1
+3	1	1	Justitsministeriet, Social- og Integrationsministeriet	1
+4	1	1	Justitsministeriet, Social- og Integrationsministeriet	1
+5	1	0	Justitsministeriet, Social- og Integrationsministeriet	1
+6	1	1	Justitsministeriet, Social- og Integrationsministeriet	1
+7	1	0	Justitsministeriet, Social- og Integrationsministeriet	1
+14	1	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	2	0	Justitsministeriet, Social- og Integrationsministeriet	1
+2	2	1	Justitsministeriet, Social- og Integrationsministeriet	1
+3	2	0	Justitsministeriet, Social- og Integrationsministeriet	1
+4	2	0	Justitsministeriet, Social- og Integrationsministeriet	1
+5	2	1	Justitsministeriet, Social- og Integrationsministeriet	1
+6	2	0	Justitsministeriet, Social- og Integrationsministeriet	1
+7	2	1	Justitsministeriet, Social- og Integrationsministeriet	1
+14	2	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	3	1	Justitsministeriet, Social- og Integrationsministeriet	1
+2	3	0	Justitsministeriet, Social- og Integrationsministeriet	1
+3	3	1	Justitsministeriet, Social- og Integrationsministeriet	1
+4	3	1	Justitsministeriet, Social- og Integrationsministeriet	1
+5	3	0	Justitsministeriet, Social- og Integrationsministeriet	1
+6	3	1	Justitsministeriet, Social- og Integrationsministeriet	1
+7	3	0	Justitsministeriet, Social- og Integrationsministeriet	1
+14	3	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	4	1	Justitsministeriet, Social- og Integrationsministeriet	1
+2	4	0	Justitsministeriet, Social- og Integrationsministeriet	1
+3	4	1	Justitsministeriet, Social- og Integrationsministeriet	1
+4	4	1	Justitsministeriet, Social- og Integrationsministeriet	1
+5	4	0	Justitsministeriet, Social- og Integrationsministeriet	1
+6	4	1	Justitsministeriet, Social- og Integrationsministeriet	1
+7	4	0	Justitsministeriet, Social- og Integrationsministeriet	1
+14	4	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	5	0	Justitsministeriet, Social- og Integrationsministeriet	1
+2	5	1	Justitsministeriet, Social- og Integrationsministeriet	1
+3	5	0	Justitsministeriet, Social- og Integrationsministeriet	1
+4	5	0	Justitsministeriet, Social- og Integrationsministeriet	1
+5	5	1	Justitsministeriet, Social- og Integrationsministeriet	1
+6	5	0	Justitsministeriet, Social- og Integrationsministeriet	1
+7	5	1	Justitsministeriet, Social- og Integrationsministeriet	1
+14	5	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	6	1	Justitsministeriet, Social- og Integrationsministeriet	1
+2	6	0	Justitsministeriet, Social- og Integrationsministeriet	1
+3	6	1	Justitsministeriet, Social- og Integrationsministeriet	1
+4	6	1	Justitsministeriet, Social- og Integrationsministeriet	1
+5	6	0	Justitsministeriet, Social- og Integrationsministeriet	1
+6	6	1	Justitsministeriet, Social- og Integrationsministeriet	1
+7	6	0	Justitsministeriet, Social- og Integrationsministeriet	1
+14	6	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	7	0	Justitsministeriet, Social- og Integrationsministeriet	1
+2	7	1	Justitsministeriet, Social- og Integrationsministeriet	1
+3	7	0	Justitsministeriet, Social- og Integrationsministeriet	1
+4	7	0	Justitsministeriet, Social- og Integrationsministeriet	1
+5	7	1	Justitsministeriet, Social- og Integrationsministeriet	1
+6	7	0	Justitsministeriet, Social- og Integrationsministeriet	1
+7	7	1	Justitsministeriet, Social- og Integrationsministeriet	1
+14	7	0	Justitsministeriet, Social- og Integrationsministeriet	1
+1	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+2	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+3	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+4	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+5	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+6	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+7	14	0	Justitsministeriet, Social- og Integrationsministeriet	1
+14	14	1	Justitsministeriet, Social- og Integrationsministeriet	1
+1	1	1	Justitsministeriet, Statsministeriet	1
+2	1	0	Justitsministeriet, Statsministeriet	1
+3	1	1	Justitsministeriet, Statsministeriet	1
+4	1	1	Justitsministeriet, Statsministeriet	1
+5	1	0	Justitsministeriet, Statsministeriet	1
+6	1	1	Justitsministeriet, Statsministeriet	1
+7	1	0	Justitsministeriet, Statsministeriet	1
+14	1	0	Justitsministeriet, Statsministeriet	1
+1	2	0	Justitsministeriet, Statsministeriet	1
+2	2	1	Justitsministeriet, Statsministeriet	1
+3	2	0	Justitsministeriet, Statsministeriet	1
+4	2	0	Justitsministeriet, Statsministeriet	1
+5	2	1	Justitsministeriet, Statsministeriet	1
+6	2	0	Justitsministeriet, Statsministeriet	1
+7	2	1	Justitsministeriet, Statsministeriet	1
+14	2	1	Justitsministeriet, Statsministeriet	1
+1	3	1	Justitsministeriet, Statsministeriet	1
+2	3	0	Justitsministeriet, Statsministeriet	1
+3	3	1	Justitsministeriet, Statsministeriet	1
+4	3	1	Justitsministeriet, Statsministeriet	1
+5	3	0	Justitsministeriet, Statsministeriet	1
+6	3	1	Justitsministeriet, Statsministeriet	1
+7	3	0	Justitsministeriet, Statsministeriet	1
+14	3	0	Justitsministeriet, Statsministeriet	1
+1	4	1	Justitsministeriet, Statsministeriet	1
+2	4	0	Justitsministeriet, Statsministeriet	1
+3	4	1	Justitsministeriet, Statsministeriet	1
+4	4	1	Justitsministeriet, Statsministeriet	1
+5	4	0	Justitsministeriet, Statsministeriet	1
+6	4	1	Justitsministeriet, Statsministeriet	1
+7	4	0	Justitsministeriet, Statsministeriet	1
+14	4	0	Justitsministeriet, Statsministeriet	1
+1	5	0	Justitsministeriet, Statsministeriet	1
+2	5	1	Justitsministeriet, Statsministeriet	1
+3	5	0	Justitsministeriet, Statsministeriet	1
+4	5	0	Justitsministeriet, Statsministeriet	1
+5	5	1	Justitsministeriet, Statsministeriet	1
+6	5	0	Justitsministeriet, Statsministeriet	1
+7	5	1	Justitsministeriet, Statsministeriet	1
+14	5	1	Justitsministeriet, Statsministeriet	1
+1	6	1	Justitsministeriet, Statsministeriet	1
+2	6	0	Justitsministeriet, Statsministeriet	1
+3	6	1	Justitsministeriet, Statsministeriet	1
+4	6	1	Justitsministeriet, Statsministeriet	1
+5	6	0	Justitsministeriet, Statsministeriet	1
+6	6	1	Justitsministeriet, Statsministeriet	1
+7	6	0	Justitsministeriet, Statsministeriet	1
+14	6	0	Justitsministeriet, Statsministeriet	1
+1	7	0	Justitsministeriet, Statsministeriet	1
+2	7	1	Justitsministeriet, Statsministeriet	1
+3	7	0	Justitsministeriet, Statsministeriet	1
+4	7	0	Justitsministeriet, Statsministeriet	1
+5	7	1	Justitsministeriet, Statsministeriet	1
+6	7	0	Justitsministeriet, Statsministeriet	1
+7	7	1	Justitsministeriet, Statsministeriet	1
+14	7	1	Justitsministeriet, Statsministeriet	1
+1	14	0	Justitsministeriet, Statsministeriet	1
+2	14	1	Justitsministeriet, Statsministeriet	1
+3	14	0	Justitsministeriet, Statsministeriet	1
+4	14	0	Justitsministeriet, Statsministeriet	1
+5	14	1	Justitsministeriet, Statsministeriet	1
+6	14	0	Justitsministeriet, Statsministeriet	1
+7	14	1	Justitsministeriet, Statsministeriet	1
+14	14	1	Justitsministeriet, Statsministeriet	1
+1	1	1	Kirkeministeriet	1
+2	1	1	Kirkeministeriet	1
+3	1	1	Kirkeministeriet	1
+4	1	1	Kirkeministeriet	1
+5	1	1	Kirkeministeriet	1
+6	1	0	Kirkeministeriet	1
+7	1	1	Kirkeministeriet	1
+14	1	1	Kirkeministeriet	1
+1	2	1	Kirkeministeriet	1
+2	2	1	Kirkeministeriet	1
+3	2	1	Kirkeministeriet	1
+4	2	1	Kirkeministeriet	1
+5	2	1	Kirkeministeriet	1
+6	2	0	Kirkeministeriet	1
+7	2	1	Kirkeministeriet	1
+14	2	1	Kirkeministeriet	1
+1	3	1	Kirkeministeriet	1
+2	3	1	Kirkeministeriet	1
+3	3	1	Kirkeministeriet	1
+4	3	1	Kirkeministeriet	1
+5	3	1	Kirkeministeriet	1
+6	3	0	Kirkeministeriet	1
+7	3	1	Kirkeministeriet	1
+14	3	1	Kirkeministeriet	1
+1	4	1	Kirkeministeriet	1
+2	4	1	Kirkeministeriet	1
+3	4	1	Kirkeministeriet	1
+4	4	1	Kirkeministeriet	1
+5	4	1	Kirkeministeriet	1
+6	4	0	Kirkeministeriet	1
+7	4	1	Kirkeministeriet	1
+14	4	1	Kirkeministeriet	1
+1	5	1	Kirkeministeriet	1
+2	5	1	Kirkeministeriet	1
+3	5	1	Kirkeministeriet	1
+4	5	1	Kirkeministeriet	1
+5	5	1	Kirkeministeriet	1
+6	5	0	Kirkeministeriet	1
+7	5	1	Kirkeministeriet	1
+14	5	1	Kirkeministeriet	1
+1	6	0	Kirkeministeriet	1
+2	6	0	Kirkeministeriet	1
+3	6	0	Kirkeministeriet	1
+4	6	0	Kirkeministeriet	1
+5	6	0	Kirkeministeriet	1
+6	6	1	Kirkeministeriet	1
+7	6	0	Kirkeministeriet	1
+14	6	0	Kirkeministeriet	1
+1	7	1	Kirkeministeriet	1
+2	7	1	Kirkeministeriet	1
+3	7	1	Kirkeministeriet	1
+4	7	1	Kirkeministeriet	1
+5	7	1	Kirkeministeriet	1
+6	7	0	Kirkeministeriet	1
+7	7	1	Kirkeministeriet	1
+14	7	1	Kirkeministeriet	1
+1	14	1	Kirkeministeriet	1
+2	14	1	Kirkeministeriet	1
+3	14	1	Kirkeministeriet	1
+4	14	1	Kirkeministeriet	1
+5	14	1	Kirkeministeriet	1
+6	14	0	Kirkeministeriet	1
+7	14	1	Kirkeministeriet	1
+14	14	1	Kirkeministeriet	1
+1	1	1	Klima- og Energiministeriet	1
+2	1	0	Klima- og Energiministeriet	1
+3	1	1	Klima- og Energiministeriet	1
+4	1	1	Klima- og Energiministeriet	1
+5	1	1	Klima- og Energiministeriet	1
+6	1	1	Klima- og Energiministeriet	1
+7	1	1	Klima- og Energiministeriet	1
+14	1	0	Klima- og Energiministeriet	1
+1	2	0	Klima- og Energiministeriet	1
+2	2	1	Klima- og Energiministeriet	1
+3	2	0	Klima- og Energiministeriet	1
+4	2	0	Klima- og Energiministeriet	1
+5	2	0	Klima- og Energiministeriet	1
+6	2	0	Klima- og Energiministeriet	1
+7	2	0	Klima- og Energiministeriet	1
+14	2	1	Klima- og Energiministeriet	1
+1	3	1	Klima- og Energiministeriet	1
+2	3	0	Klima- og Energiministeriet	1
+3	3	1	Klima- og Energiministeriet	1
+4	3	1	Klima- og Energiministeriet	1
+5	3	1	Klima- og Energiministeriet	1
+6	3	1	Klima- og Energiministeriet	1
+7	3	1	Klima- og Energiministeriet	1
+14	3	0	Klima- og Energiministeriet	1
+1	4	1	Klima- og Energiministeriet	1
+2	4	0	Klima- og Energiministeriet	1
+3	4	1	Klima- og Energiministeriet	1
+4	4	1	Klima- og Energiministeriet	1
+5	4	1	Klima- og Energiministeriet	1
+6	4	1	Klima- og Energiministeriet	1
+7	4	1	Klima- og Energiministeriet	1
+14	4	0	Klima- og Energiministeriet	1
+1	5	1	Klima- og Energiministeriet	1
+2	5	0	Klima- og Energiministeriet	1
+3	5	1	Klima- og Energiministeriet	1
+4	5	1	Klima- og Energiministeriet	1
+5	5	1	Klima- og Energiministeriet	1
+6	5	1	Klima- og Energiministeriet	1
+7	5	1	Klima- og Energiministeriet	1
+14	5	0	Klima- og Energiministeriet	1
+1	6	1	Klima- og Energiministeriet	1
+2	6	0	Klima- og Energiministeriet	1
+3	6	1	Klima- og Energiministeriet	1
+4	6	1	Klima- og Energiministeriet	1
+5	6	1	Klima- og Energiministeriet	1
+6	6	1	Klima- og Energiministeriet	1
+7	6	1	Klima- og Energiministeriet	1
+14	6	0	Klima- og Energiministeriet	1
+1	7	1	Klima- og Energiministeriet	1
+2	7	0	Klima- og Energiministeriet	1
+3	7	1	Klima- og Energiministeriet	1
+4	7	1	Klima- og Energiministeriet	1
+5	7	1	Klima- og Energiministeriet	1
+6	7	1	Klima- og Energiministeriet	1
+7	7	1	Klima- og Energiministeriet	1
+14	7	0	Klima- og Energiministeriet	1
+1	14	0	Klima- og Energiministeriet	1
+2	14	1	Klima- og Energiministeriet	1
+3	14	0	Klima- og Energiministeriet	1
+4	14	0	Klima- og Energiministeriet	1
+5	14	0	Klima- og Energiministeriet	1
+6	14	0	Klima- og Energiministeriet	1
+7	14	0	Klima- og Energiministeriet	1
+14	14	1	Klima- og Energiministeriet	1
+1	1	35	Klima-, Energi- og Bygningsministeriet	35
+2	1	27	Klima-, Energi- og Bygningsministeriet	35
+3	1	35	Klima-, Energi- og Bygningsministeriet	35
+4	1	35	Klima-, Energi- og Bygningsministeriet	35
+5	1	34	Klima-, Energi- og Bygningsministeriet	35
+6	1	32	Klima-, Energi- og Bygningsministeriet	35
+7	1	34	Klima-, Energi- og Bygningsministeriet	35
+14	1	18	Klima-, Energi- og Bygningsministeriet	35
+1	2	27	Klima-, Energi- og Bygningsministeriet	35
+2	2	35	Klima-, Energi- og Bygningsministeriet	35
+3	2	27	Klima-, Energi- og Bygningsministeriet	35
+4	2	27	Klima-, Energi- og Bygningsministeriet	35
+5	2	28	Klima-, Energi- og Bygningsministeriet	35
+6	2	24	Klima-, Energi- og Bygningsministeriet	35
+7	2	26	Klima-, Energi- og Bygningsministeriet	35
+14	2	19	Klima-, Energi- og Bygningsministeriet	35
+1	3	35	Klima-, Energi- og Bygningsministeriet	35
+2	3	27	Klima-, Energi- og Bygningsministeriet	35
+3	3	35	Klima-, Energi- og Bygningsministeriet	35
+4	3	35	Klima-, Energi- og Bygningsministeriet	35
+5	3	34	Klima-, Energi- og Bygningsministeriet	35
+6	3	32	Klima-, Energi- og Bygningsministeriet	35
+7	3	34	Klima-, Energi- og Bygningsministeriet	35
+14	3	18	Klima-, Energi- og Bygningsministeriet	35
+1	4	35	Klima-, Energi- og Bygningsministeriet	35
+2	4	27	Klima-, Energi- og Bygningsministeriet	35
+3	4	35	Klima-, Energi- og Bygningsministeriet	35
+4	4	35	Klima-, Energi- og Bygningsministeriet	35
+5	4	34	Klima-, Energi- og Bygningsministeriet	35
+6	4	32	Klima-, Energi- og Bygningsministeriet	35
+7	4	34	Klima-, Energi- og Bygningsministeriet	35
+14	4	18	Klima-, Energi- og Bygningsministeriet	35
+1	5	34	Klima-, Energi- og Bygningsministeriet	35
+2	5	28	Klima-, Energi- og Bygningsministeriet	35
+3	5	34	Klima-, Energi- og Bygningsministeriet	35
+4	5	34	Klima-, Energi- og Bygningsministeriet	35
+5	5	35	Klima-, Energi- og Bygningsministeriet	35
+6	5	31	Klima-, Energi- og Bygningsministeriet	35
+7	5	33	Klima-, Energi- og Bygningsministeriet	35
+14	5	19	Klima-, Energi- og Bygningsministeriet	35
+1	6	32	Klima-, Energi- og Bygningsministeriet	35
+2	6	24	Klima-, Energi- og Bygningsministeriet	35
+3	6	32	Klima-, Energi- og Bygningsministeriet	35
+4	6	32	Klima-, Energi- og Bygningsministeriet	35
+5	6	31	Klima-, Energi- og Bygningsministeriet	35
+6	6	35	Klima-, Energi- og Bygningsministeriet	35
+7	6	31	Klima-, Energi- og Bygningsministeriet	35
+14	6	15	Klima-, Energi- og Bygningsministeriet	35
+1	7	34	Klima-, Energi- og Bygningsministeriet	35
+2	7	26	Klima-, Energi- og Bygningsministeriet	35
+3	7	34	Klima-, Energi- og Bygningsministeriet	35
+4	7	34	Klima-, Energi- og Bygningsministeriet	35
+5	7	33	Klima-, Energi- og Bygningsministeriet	35
+6	7	31	Klima-, Energi- og Bygningsministeriet	35
+7	7	35	Klima-, Energi- og Bygningsministeriet	35
+14	7	17	Klima-, Energi- og Bygningsministeriet	35
+1	14	18	Klima-, Energi- og Bygningsministeriet	35
+2	14	19	Klima-, Energi- og Bygningsministeriet	35
+3	14	18	Klima-, Energi- og Bygningsministeriet	35
+4	14	18	Klima-, Energi- og Bygningsministeriet	35
+5	14	19	Klima-, Energi- og Bygningsministeriet	35
+6	14	15	Klima-, Energi- og Bygningsministeriet	35
+7	14	17	Klima-, Energi- og Bygningsministeriet	35
+14	14	35	Klima-, Energi- og Bygningsministeriet	35
+1	1	32	Kulturministeriet	32
+2	1	17	Kulturministeriet	32
+3	1	32	Kulturministeriet	32
+4	1	32	Kulturministeriet	32
+5	1	25	Kulturministeriet	32
+6	1	26	Kulturministeriet	32
+7	1	26	Kulturministeriet	32
+14	1	22	Kulturministeriet	32
+1	2	17	Kulturministeriet	32
+2	2	32	Kulturministeriet	32
+3	2	17	Kulturministeriet	32
+4	2	17	Kulturministeriet	32
+5	2	22	Kulturministeriet	32
+6	2	13	Kulturministeriet	32
+7	2	22	Kulturministeriet	32
+14	2	17	Kulturministeriet	32
+1	3	32	Kulturministeriet	32
+2	3	17	Kulturministeriet	32
+3	3	32	Kulturministeriet	32
+4	3	32	Kulturministeriet	32
+5	3	25	Kulturministeriet	32
+6	3	26	Kulturministeriet	32
+7	3	26	Kulturministeriet	32
+14	3	22	Kulturministeriet	32
+1	4	32	Kulturministeriet	32
+2	4	17	Kulturministeriet	32
+3	4	32	Kulturministeriet	32
+4	4	32	Kulturministeriet	32
+5	4	25	Kulturministeriet	32
+6	4	26	Kulturministeriet	32
+7	4	26	Kulturministeriet	32
+14	4	22	Kulturministeriet	32
+1	5	25	Kulturministeriet	32
+2	5	22	Kulturministeriet	32
+3	5	25	Kulturministeriet	32
+4	5	25	Kulturministeriet	32
+5	5	32	Kulturministeriet	32
+6	5	19	Kulturministeriet	32
+7	5	31	Kulturministeriet	32
+14	5	23	Kulturministeriet	32
+1	6	26	Kulturministeriet	32
+2	6	13	Kulturministeriet	32
+3	6	26	Kulturministeriet	32
+4	6	26	Kulturministeriet	32
+5	6	19	Kulturministeriet	32
+6	6	32	Kulturministeriet	32
+7	6	20	Kulturministeriet	32
+14	6	20	Kulturministeriet	32
+1	7	26	Kulturministeriet	32
+2	7	22	Kulturministeriet	32
+3	7	26	Kulturministeriet	32
+4	7	26	Kulturministeriet	32
+5	7	31	Kulturministeriet	32
+6	7	20	Kulturministeriet	32
+7	7	32	Kulturministeriet	32
+14	7	22	Kulturministeriet	32
+1	14	22	Kulturministeriet	32
+2	14	17	Kulturministeriet	32
+3	14	22	Kulturministeriet	32
+4	14	22	Kulturministeriet	32
+5	14	23	Kulturministeriet	32
+6	14	20	Kulturministeriet	32
+7	14	22	Kulturministeriet	32
+14	14	32	Kulturministeriet	32
+1	1	60	Miljøministeriet	60
+2	1	32	Miljøministeriet	60
+3	1	58	Miljøministeriet	60
+4	1	60	Miljøministeriet	60
+5	1	38	Miljøministeriet	60
+6	1	55	Miljøministeriet	60
+7	1	43	Miljøministeriet	60
+14	1	32	Miljøministeriet	60
+1	2	32	Miljøministeriet	60
+2	2	60	Miljøministeriet	60
+3	2	30	Miljøministeriet	60
+4	2	32	Miljøministeriet	60
+5	2	48	Miljøministeriet	60
+6	2	27	Miljøministeriet	60
+7	2	46	Miljøministeriet	60
+14	2	45	Miljøministeriet	60
+1	3	58	Miljøministeriet	60
+2	3	30	Miljøministeriet	60
+3	3	60	Miljøministeriet	60
+4	3	58	Miljøministeriet	60
+5	3	36	Miljøministeriet	60
+6	3	57	Miljøministeriet	60
+7	3	41	Miljøministeriet	60
+14	3	30	Miljøministeriet	60
+1	4	60	Miljøministeriet	60
+2	4	32	Miljøministeriet	60
+3	4	58	Miljøministeriet	60
+4	4	60	Miljøministeriet	60
+5	4	38	Miljøministeriet	60
+6	4	55	Miljøministeriet	60
+7	4	43	Miljøministeriet	60
+14	4	32	Miljøministeriet	60
+1	5	38	Miljøministeriet	60
+2	5	48	Miljøministeriet	60
+3	5	36	Miljøministeriet	60
+4	5	38	Miljøministeriet	60
+5	5	60	Miljøministeriet	60
+6	5	33	Miljøministeriet	60
+7	5	52	Miljøministeriet	60
+14	5	50	Miljøministeriet	60
+1	6	55	Miljøministeriet	60
+2	6	27	Miljøministeriet	60
+3	6	57	Miljøministeriet	60
+4	6	55	Miljøministeriet	60
+5	6	33	Miljøministeriet	60
+6	6	60	Miljøministeriet	60
+7	6	38	Miljøministeriet	60
+14	6	27	Miljøministeriet	60
+1	7	43	Miljøministeriet	60
+2	7	46	Miljøministeriet	60
+3	7	41	Miljøministeriet	60
+4	7	43	Miljøministeriet	60
+5	7	52	Miljøministeriet	60
+6	7	38	Miljøministeriet	60
+7	7	60	Miljøministeriet	60
+14	7	48	Miljøministeriet	60
+1	14	32	Miljøministeriet	60
+2	14	45	Miljøministeriet	60
+3	14	30	Miljøministeriet	60
+4	14	32	Miljøministeriet	60
+5	14	50	Miljøministeriet	60
+6	14	27	Miljøministeriet	60
+7	14	48	Miljøministeriet	60
+14	14	60	Miljøministeriet	60
+1	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	1	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	1	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	2	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	2	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	3	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	3	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	4	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	4	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	5	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	5	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	6	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	6	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	7	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	7	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+2	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+3	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+4	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+5	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+6	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+7	14	0	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+14	14	1	Miljøministeriet, Erhvervs- og Vækstministeriet	1
+1	1	41	Ministeriet for By, Bolig og Landdistrikter	41
+2	1	26	Ministeriet for By, Bolig og Landdistrikter	41
+3	1	37	Ministeriet for By, Bolig og Landdistrikter	41
+4	1	41	Ministeriet for By, Bolig og Landdistrikter	41
+5	1	28	Ministeriet for By, Bolig og Landdistrikter	41
+6	1	31	Ministeriet for By, Bolig og Landdistrikter	41
+7	1	30	Ministeriet for By, Bolig og Landdistrikter	41
+14	1	23	Ministeriet for By, Bolig og Landdistrikter	41
+1	2	26	Ministeriet for By, Bolig og Landdistrikter	41
+2	2	41	Ministeriet for By, Bolig og Landdistrikter	41
+3	2	22	Ministeriet for By, Bolig og Landdistrikter	41
+4	2	26	Ministeriet for By, Bolig og Landdistrikter	41
+5	2	35	Ministeriet for By, Bolig og Landdistrikter	41
+6	2	18	Ministeriet for By, Bolig og Landdistrikter	41
+7	2	33	Ministeriet for By, Bolig og Landdistrikter	41
+14	2	26	Ministeriet for By, Bolig og Landdistrikter	41
+1	3	37	Ministeriet for By, Bolig og Landdistrikter	41
+2	3	22	Ministeriet for By, Bolig og Landdistrikter	41
+3	3	41	Ministeriet for By, Bolig og Landdistrikter	41
+4	3	37	Ministeriet for By, Bolig og Landdistrikter	41
+5	3	24	Ministeriet for By, Bolig og Landdistrikter	41
+6	3	35	Ministeriet for By, Bolig og Landdistrikter	41
+7	3	26	Ministeriet for By, Bolig og Landdistrikter	41
+14	3	19	Ministeriet for By, Bolig og Landdistrikter	41
+1	4	41	Ministeriet for By, Bolig og Landdistrikter	41
+2	4	26	Ministeriet for By, Bolig og Landdistrikter	41
+3	4	37	Ministeriet for By, Bolig og Landdistrikter	41
+4	4	41	Ministeriet for By, Bolig og Landdistrikter	41
+5	4	28	Ministeriet for By, Bolig og Landdistrikter	41
+6	4	31	Ministeriet for By, Bolig og Landdistrikter	41
+7	4	30	Ministeriet for By, Bolig og Landdistrikter	41
+14	4	23	Ministeriet for By, Bolig og Landdistrikter	41
+1	5	28	Ministeriet for By, Bolig og Landdistrikter	41
+2	5	35	Ministeriet for By, Bolig og Landdistrikter	41
+3	5	24	Ministeriet for By, Bolig og Landdistrikter	41
+4	5	28	Ministeriet for By, Bolig og Landdistrikter	41
+5	5	41	Ministeriet for By, Bolig og Landdistrikter	41
+6	5	20	Ministeriet for By, Bolig og Landdistrikter	41
+7	5	39	Ministeriet for By, Bolig og Landdistrikter	41
+14	5	30	Ministeriet for By, Bolig og Landdistrikter	41
+1	6	31	Ministeriet for By, Bolig og Landdistrikter	41
+2	6	18	Ministeriet for By, Bolig og Landdistrikter	41
+3	6	35	Ministeriet for By, Bolig og Landdistrikter	41
+4	6	31	Ministeriet for By, Bolig og Landdistrikter	41
+5	6	20	Ministeriet for By, Bolig og Landdistrikter	41
+6	6	41	Ministeriet for By, Bolig og Landdistrikter	41
+7	6	20	Ministeriet for By, Bolig og Landdistrikter	41
+14	6	15	Ministeriet for By, Bolig og Landdistrikter	41
+1	7	30	Ministeriet for By, Bolig og Landdistrikter	41
+2	7	33	Ministeriet for By, Bolig og Landdistrikter	41
+3	7	26	Ministeriet for By, Bolig og Landdistrikter	41
+4	7	30	Ministeriet for By, Bolig og Landdistrikter	41
+5	7	39	Ministeriet for By, Bolig og Landdistrikter	41
+6	7	20	Ministeriet for By, Bolig og Landdistrikter	41
+7	7	41	Ministeriet for By, Bolig og Landdistrikter	41
+14	7	30	Ministeriet for By, Bolig og Landdistrikter	41
+1	14	23	Ministeriet for By, Bolig og Landdistrikter	41
+2	14	26	Ministeriet for By, Bolig og Landdistrikter	41
+3	14	19	Ministeriet for By, Bolig og Landdistrikter	41
+4	14	23	Ministeriet for By, Bolig og Landdistrikter	41
+5	14	30	Ministeriet for By, Bolig og Landdistrikter	41
+6	14	15	Ministeriet for By, Bolig og Landdistrikter	41
+7	14	30	Ministeriet for By, Bolig og Landdistrikter	41
+14	14	41	Ministeriet for By, Bolig og Landdistrikter	41
+1	1	24	Ministeriet for Børn og Undervisning	24
+2	1	16	Ministeriet for Børn og Undervisning	24
+3	1	24	Ministeriet for Børn og Undervisning	24
+4	1	24	Ministeriet for Børn og Undervisning	24
+5	1	19	Ministeriet for Børn og Undervisning	24
+6	1	16	Ministeriet for Børn og Undervisning	24
+7	1	18	Ministeriet for Børn og Undervisning	24
+14	1	16	Ministeriet for Børn og Undervisning	24
+1	2	16	Ministeriet for Børn og Undervisning	24
+2	2	24	Ministeriet for Børn og Undervisning	24
+3	2	16	Ministeriet for Børn og Undervisning	24
+4	2	16	Ministeriet for Børn og Undervisning	24
+5	2	16	Ministeriet for Børn og Undervisning	24
+6	2	10	Ministeriet for Børn og Undervisning	24
+7	2	20	Ministeriet for Børn og Undervisning	24
+14	2	16	Ministeriet for Børn og Undervisning	24
+1	3	24	Ministeriet for Børn og Undervisning	24
+2	3	16	Ministeriet for Børn og Undervisning	24
+3	3	24	Ministeriet for Børn og Undervisning	24
+4	3	24	Ministeriet for Børn og Undervisning	24
+5	3	19	Ministeriet for Børn og Undervisning	24
+6	3	16	Ministeriet for Børn og Undervisning	24
+7	3	18	Ministeriet for Børn og Undervisning	24
+14	3	16	Ministeriet for Børn og Undervisning	24
+1	4	24	Ministeriet for Børn og Undervisning	24
+2	4	16	Ministeriet for Børn og Undervisning	24
+3	4	24	Ministeriet for Børn og Undervisning	24
+4	4	24	Ministeriet for Børn og Undervisning	24
+5	4	19	Ministeriet for Børn og Undervisning	24
+6	4	16	Ministeriet for Børn og Undervisning	24
+7	4	18	Ministeriet for Børn og Undervisning	24
+14	4	16	Ministeriet for Børn og Undervisning	24
+1	5	19	Ministeriet for Børn og Undervisning	24
+2	5	16	Ministeriet for Børn og Undervisning	24
+3	5	19	Ministeriet for Børn og Undervisning	24
+4	5	19	Ministeriet for Børn og Undervisning	24
+5	5	24	Ministeriet for Børn og Undervisning	24
+6	5	11	Ministeriet for Børn og Undervisning	24
+7	5	20	Ministeriet for Børn og Undervisning	24
+14	5	16	Ministeriet for Børn og Undervisning	24
+1	6	16	Ministeriet for Børn og Undervisning	24
+2	6	10	Ministeriet for Børn og Undervisning	24
+3	6	16	Ministeriet for Børn og Undervisning	24
+4	6	16	Ministeriet for Børn og Undervisning	24
+5	6	11	Ministeriet for Børn og Undervisning	24
+6	6	24	Ministeriet for Børn og Undervisning	24
+7	6	10	Ministeriet for Børn og Undervisning	24
+14	6	10	Ministeriet for Børn og Undervisning	24
+1	7	18	Ministeriet for Børn og Undervisning	24
+2	7	20	Ministeriet for Børn og Undervisning	24
+3	7	18	Ministeriet for Børn og Undervisning	24
+4	7	18	Ministeriet for Børn og Undervisning	24
+5	7	20	Ministeriet for Børn og Undervisning	24
+6	7	10	Ministeriet for Børn og Undervisning	24
+7	7	24	Ministeriet for Børn og Undervisning	24
+14	7	20	Ministeriet for Børn og Undervisning	24
+1	14	16	Ministeriet for Børn og Undervisning	24
+2	14	16	Ministeriet for Børn og Undervisning	24
+3	14	16	Ministeriet for Børn og Undervisning	24
+4	14	16	Ministeriet for Børn og Undervisning	24
+5	14	16	Ministeriet for Børn og Undervisning	24
+6	14	10	Ministeriet for Børn og Undervisning	24
+7	14	20	Ministeriet for Børn og Undervisning	24
+14	14	24	Ministeriet for Børn og Undervisning	24
+1	1	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	1	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	1	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	1	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	1	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	1	18	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	1	22	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	1	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	2	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	2	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	2	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	2	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	2	19	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	2	16	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	2	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	2	19	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	3	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	3	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	3	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	3	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	3	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	3	19	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	3	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	3	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	4	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	4	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	4	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	4	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	4	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	4	18	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	4	22	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	4	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	5	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	5	19	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	5	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	5	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	5	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	5	15	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	5	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	5	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	6	18	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	6	16	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	6	19	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	6	18	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	6	15	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	6	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	6	16	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	6	15	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	7	22	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	7	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	7	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	7	22	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	7	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	7	16	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	7	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	7	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	14	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+2	14	19	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+3	14	20	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+4	14	21	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+5	14	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+6	14	15	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+7	14	23	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+14	14	24	Ministeriet for Børn, Ligestilling, Integration og Sociale Forhold	24
+1	1	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	1	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	1	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	1	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	1	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	1	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	1	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	1	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	2	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	2	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	2	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	2	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	2	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	2	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	2	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	2	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	3	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	3	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	3	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	3	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	3	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	3	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	3	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	3	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	4	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	4	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	4	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	4	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	4	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	4	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	4	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	4	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	5	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	5	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	5	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	5	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	5	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	5	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	5	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	5	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	6	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	6	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	6	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	6	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	6	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	6	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	6	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	6	14	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	7	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	7	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	7	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	7	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	7	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	7	15	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	7	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	7	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	14	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+2	14	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+3	14	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+4	14	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+5	14	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+6	14	14	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+7	14	24	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+14	14	25	Ministeriet for Forskning, Innovation og Videregående Uddannelser	25
+1	1	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	1	30	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	1	58	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	1	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	1	37	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	1	38	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	1	39	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	1	25	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	2	30	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	2	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	2	28	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	2	30	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	2	45	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	2	19	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	2	46	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	2	29	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	3	58	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	3	28	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	3	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	3	58	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	3	35	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	3	40	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	3	37	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	3	23	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	4	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	4	30	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	4	58	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	4	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	4	37	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	4	38	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	4	39	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	4	25	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	5	37	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	5	45	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	5	35	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	5	37	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	5	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	5	15	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	5	58	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	5	40	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	6	38	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	6	19	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	6	40	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	6	38	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	6	15	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	6	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	6	17	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	6	30	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	7	39	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	7	46	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	7	37	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	7	39	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	7	58	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	7	17	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	7	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	7	38	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	14	25	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+2	14	29	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+3	14	23	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+4	14	25	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+5	14	40	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+6	14	30	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+7	14	38	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+14	14	60	Ministeriet for Fødevarer, Landbrug og Fiskeri	60
+1	1	10	Ministeriet for Ligestilling og Kirke	10
+2	1	6	Ministeriet for Ligestilling og Kirke	10
+3	1	10	Ministeriet for Ligestilling og Kirke	10
+4	1	10	Ministeriet for Ligestilling og Kirke	10
+5	1	9	Ministeriet for Ligestilling og Kirke	10
+6	1	4	Ministeriet for Ligestilling og Kirke	10
+7	1	8	Ministeriet for Ligestilling og Kirke	10
+14	1	9	Ministeriet for Ligestilling og Kirke	10
+1	2	6	Ministeriet for Ligestilling og Kirke	10
+2	2	10	Ministeriet for Ligestilling og Kirke	10
+3	2	6	Ministeriet for Ligestilling og Kirke	10
+4	2	6	Ministeriet for Ligestilling og Kirke	10
+5	2	7	Ministeriet for Ligestilling og Kirke	10
+6	2	2	Ministeriet for Ligestilling og Kirke	10
+7	2	6	Ministeriet for Ligestilling og Kirke	10
+14	2	7	Ministeriet for Ligestilling og Kirke	10
+1	3	10	Ministeriet for Ligestilling og Kirke	10
+2	3	6	Ministeriet for Ligestilling og Kirke	10
+3	3	10	Ministeriet for Ligestilling og Kirke	10
+4	3	10	Ministeriet for Ligestilling og Kirke	10
+5	3	9	Ministeriet for Ligestilling og Kirke	10
+6	3	4	Ministeriet for Ligestilling og Kirke	10
+7	3	8	Ministeriet for Ligestilling og Kirke	10
+14	3	9	Ministeriet for Ligestilling og Kirke	10
+1	4	10	Ministeriet for Ligestilling og Kirke	10
+2	4	6	Ministeriet for Ligestilling og Kirke	10
+3	4	10	Ministeriet for Ligestilling og Kirke	10
+4	4	10	Ministeriet for Ligestilling og Kirke	10
+5	4	9	Ministeriet for Ligestilling og Kirke	10
+6	4	4	Ministeriet for Ligestilling og Kirke	10
+7	4	8	Ministeriet for Ligestilling og Kirke	10
+14	4	9	Ministeriet for Ligestilling og Kirke	10
+1	5	9	Ministeriet for Ligestilling og Kirke	10
+2	5	7	Ministeriet for Ligestilling og Kirke	10
+3	5	9	Ministeriet for Ligestilling og Kirke	10
+4	5	9	Ministeriet for Ligestilling og Kirke	10
+5	5	10	Ministeriet for Ligestilling og Kirke	10
+6	5	3	Ministeriet for Ligestilling og Kirke	10
+7	5	9	Ministeriet for Ligestilling og Kirke	10
+14	5	10	Ministeriet for Ligestilling og Kirke	10
+1	6	4	Ministeriet for Ligestilling og Kirke	10
+2	6	2	Ministeriet for Ligestilling og Kirke	10
+3	6	4	Ministeriet for Ligestilling og Kirke	10
+4	6	4	Ministeriet for Ligestilling og Kirke	10
+5	6	3	Ministeriet for Ligestilling og Kirke	10
+6	6	10	Ministeriet for Ligestilling og Kirke	10
+7	6	3	Ministeriet for Ligestilling og Kirke	10
+14	6	3	Ministeriet for Ligestilling og Kirke	10
+1	7	8	Ministeriet for Ligestilling og Kirke	10
+2	7	6	Ministeriet for Ligestilling og Kirke	10
+3	7	8	Ministeriet for Ligestilling og Kirke	10
+4	7	8	Ministeriet for Ligestilling og Kirke	10
+5	7	9	Ministeriet for Ligestilling og Kirke	10
+6	7	3	Ministeriet for Ligestilling og Kirke	10
+7	7	10	Ministeriet for Ligestilling og Kirke	10
+14	7	9	Ministeriet for Ligestilling og Kirke	10
+1	14	9	Ministeriet for Ligestilling og Kirke	10
+2	14	7	Ministeriet for Ligestilling og Kirke	10
+3	14	9	Ministeriet for Ligestilling og Kirke	10
+4	14	9	Ministeriet for Ligestilling og Kirke	10
+5	14	10	Ministeriet for Ligestilling og Kirke	10
+6	14	3	Ministeriet for Ligestilling og Kirke	10
+7	14	9	Ministeriet for Ligestilling og Kirke	10
+14	14	10	Ministeriet for Ligestilling og Kirke	10
+1	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	1	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	2	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	3	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	4	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	5	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	6	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	7	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+2	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+3	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+4	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+5	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+6	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+7	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+14	14	1	Ministeriet for Nordisk Samarbejde, Justitsministeriet, Social- og Integrationsministeriet	1
+1	1	71	Ministeriet for Sundhed og Forebyggelse	71
+2	1	41	Ministeriet for Sundhed og Forebyggelse	71
+3	1	68	Ministeriet for Sundhed og Forebyggelse	71
+4	1	71	Ministeriet for Sundhed og Forebyggelse	71
+5	1	53	Ministeriet for Sundhed og Forebyggelse	71
+6	1	60	Ministeriet for Sundhed og Forebyggelse	71
+7	1	44	Ministeriet for Sundhed og Forebyggelse	71
+14	1	31	Ministeriet for Sundhed og Forebyggelse	71
+1	2	41	Ministeriet for Sundhed og Forebyggelse	71
+2	2	71	Ministeriet for Sundhed og Forebyggelse	71
+3	2	40	Ministeriet for Sundhed og Forebyggelse	71
+4	2	41	Ministeriet for Sundhed og Forebyggelse	71
+5	2	49	Ministeriet for Sundhed og Forebyggelse	71
+6	2	40	Ministeriet for Sundhed og Forebyggelse	71
+7	2	55	Ministeriet for Sundhed og Forebyggelse	71
+14	2	42	Ministeriet for Sundhed og Forebyggelse	71
+1	3	68	Ministeriet for Sundhed og Forebyggelse	71
+2	3	40	Ministeriet for Sundhed og Forebyggelse	71
+3	3	71	Ministeriet for Sundhed og Forebyggelse	71
+4	3	68	Ministeriet for Sundhed og Forebyggelse	71
+5	3	50	Ministeriet for Sundhed og Forebyggelse	71
+6	3	63	Ministeriet for Sundhed og Forebyggelse	71
+7	3	41	Ministeriet for Sundhed og Forebyggelse	71
+14	3	32	Ministeriet for Sundhed og Forebyggelse	71
+1	4	71	Ministeriet for Sundhed og Forebyggelse	71
+2	4	41	Ministeriet for Sundhed og Forebyggelse	71
+3	4	68	Ministeriet for Sundhed og Forebyggelse	71
+4	4	71	Ministeriet for Sundhed og Forebyggelse	71
+5	4	53	Ministeriet for Sundhed og Forebyggelse	71
+6	4	60	Ministeriet for Sundhed og Forebyggelse	71
+7	4	44	Ministeriet for Sundhed og Forebyggelse	71
+14	4	31	Ministeriet for Sundhed og Forebyggelse	71
+1	5	53	Ministeriet for Sundhed og Forebyggelse	71
+2	5	49	Ministeriet for Sundhed og Forebyggelse	71
+3	5	50	Ministeriet for Sundhed og Forebyggelse	71
+4	5	53	Ministeriet for Sundhed og Forebyggelse	71
+5	5	71	Ministeriet for Sundhed og Forebyggelse	71
+6	5	44	Ministeriet for Sundhed og Forebyggelse	71
+7	5	58	Ministeriet for Sundhed og Forebyggelse	71
+14	5	36	Ministeriet for Sundhed og Forebyggelse	71
+1	6	60	Ministeriet for Sundhed og Forebyggelse	71
+2	6	40	Ministeriet for Sundhed og Forebyggelse	71
+3	6	63	Ministeriet for Sundhed og Forebyggelse	71
+4	6	60	Ministeriet for Sundhed og Forebyggelse	71
+5	6	44	Ministeriet for Sundhed og Forebyggelse	71
+6	6	71	Ministeriet for Sundhed og Forebyggelse	71
+7	6	41	Ministeriet for Sundhed og Forebyggelse	71
+14	6	35	Ministeriet for Sundhed og Forebyggelse	71
+1	7	44	Ministeriet for Sundhed og Forebyggelse	71
+2	7	55	Ministeriet for Sundhed og Forebyggelse	71
+3	7	41	Ministeriet for Sundhed og Forebyggelse	71
+4	7	44	Ministeriet for Sundhed og Forebyggelse	71
+5	7	58	Ministeriet for Sundhed og Forebyggelse	71
+6	7	41	Ministeriet for Sundhed og Forebyggelse	71
+7	7	71	Ministeriet for Sundhed og Forebyggelse	71
+14	7	38	Ministeriet for Sundhed og Forebyggelse	71
+1	14	31	Ministeriet for Sundhed og Forebyggelse	71
+2	14	42	Ministeriet for Sundhed og Forebyggelse	71
+3	14	32	Ministeriet for Sundhed og Forebyggelse	71
+4	14	31	Ministeriet for Sundhed og Forebyggelse	71
+5	14	36	Ministeriet for Sundhed og Forebyggelse	71
+6	14	35	Ministeriet for Sundhed og Forebyggelse	71
+7	14	38	Ministeriet for Sundhed og Forebyggelse	71
+14	14	71	Ministeriet for Sundhed og Forebyggelse	71
+1	1	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	1	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	1	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	1	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	1	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	1	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	1	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	1	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	2	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	2	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	3	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	3	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	3	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	3	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	3	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	3	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	3	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	3	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	4	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	4	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	4	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	4	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	4	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	4	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	4	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	4	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	5	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	5	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	5	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	5	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	5	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	5	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	5	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	5	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	6	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	6	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	6	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	6	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	6	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	6	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	6	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	6	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	7	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	7	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	7	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	7	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	7	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	7	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	7	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	7	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+2	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+3	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+4	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+5	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+6	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+7	14	0	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+14	14	1	Ministeriet for Sundhed og Forebyggelse, Klima-, Energi- og Bygningsministeriet	1
+1	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	1	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	2	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	3	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	4	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	5	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	6	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	7	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+2	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+3	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+4	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+5	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+6	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+7	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+14	14	1	Ministeriet for Sundhed og Forebyggelse, Social- og Integrationsministeriet	1
+1	1	2	Ministeriet for Udviklingsbistand	2
+2	1	1	Ministeriet for Udviklingsbistand	2
+3	1	2	Ministeriet for Udviklingsbistand	2
+4	1	2	Ministeriet for Udviklingsbistand	2
+5	1	2	Ministeriet for Udviklingsbistand	2
+6	1	1	Ministeriet for Udviklingsbistand	2
+7	1	2	Ministeriet for Udviklingsbistand	2
+14	1	1	Ministeriet for Udviklingsbistand	2
+1	2	1	Ministeriet for Udviklingsbistand	2
+2	2	2	Ministeriet for Udviklingsbistand	2
+3	2	1	Ministeriet for Udviklingsbistand	2
+4	2	1	Ministeriet for Udviklingsbistand	2
+5	2	1	Ministeriet for Udviklingsbistand	2
+6	2	2	Ministeriet for Udviklingsbistand	2
+7	2	1	Ministeriet for Udviklingsbistand	2
+14	2	2	Ministeriet for Udviklingsbistand	2
+1	3	2	Ministeriet for Udviklingsbistand	2
+2	3	1	Ministeriet for Udviklingsbistand	2
+3	3	2	Ministeriet for Udviklingsbistand	2
+4	3	2	Ministeriet for Udviklingsbistand	2
+5	3	2	Ministeriet for Udviklingsbistand	2
+6	3	1	Ministeriet for Udviklingsbistand	2
+7	3	2	Ministeriet for Udviklingsbistand	2
+14	3	1	Ministeriet for Udviklingsbistand	2
+1	4	2	Ministeriet for Udviklingsbistand	2
+2	4	1	Ministeriet for Udviklingsbistand	2
+3	4	2	Ministeriet for Udviklingsbistand	2
+4	4	2	Ministeriet for Udviklingsbistand	2
+5	4	2	Ministeriet for Udviklingsbistand	2
+6	4	1	Ministeriet for Udviklingsbistand	2
+7	4	2	Ministeriet for Udviklingsbistand	2
+14	4	1	Ministeriet for Udviklingsbistand	2
+1	5	2	Ministeriet for Udviklingsbistand	2
+2	5	1	Ministeriet for Udviklingsbistand	2
+3	5	2	Ministeriet for Udviklingsbistand	2
+4	5	2	Ministeriet for Udviklingsbistand	2
+5	5	2	Ministeriet for Udviklingsbistand	2
+6	5	1	Ministeriet for Udviklingsbistand	2
+7	5	2	Ministeriet for Udviklingsbistand	2
+14	5	1	Ministeriet for Udviklingsbistand	2
+1	6	1	Ministeriet for Udviklingsbistand	2
+2	6	2	Ministeriet for Udviklingsbistand	2
+3	6	1	Ministeriet for Udviklingsbistand	2
+4	6	1	Ministeriet for Udviklingsbistand	2
+5	6	1	Ministeriet for Udviklingsbistand	2
+6	6	2	Ministeriet for Udviklingsbistand	2
+7	6	1	Ministeriet for Udviklingsbistand	2
+14	6	2	Ministeriet for Udviklingsbistand	2
+1	7	2	Ministeriet for Udviklingsbistand	2
+2	7	1	Ministeriet for Udviklingsbistand	2
+3	7	2	Ministeriet for Udviklingsbistand	2
+4	7	2	Ministeriet for Udviklingsbistand	2
+5	7	2	Ministeriet for Udviklingsbistand	2
+6	7	1	Ministeriet for Udviklingsbistand	2
+7	7	2	Ministeriet for Udviklingsbistand	2
+14	7	1	Ministeriet for Udviklingsbistand	2
+1	14	1	Ministeriet for Udviklingsbistand	2
+2	14	2	Ministeriet for Udviklingsbistand	2
+3	14	1	Ministeriet for Udviklingsbistand	2
+4	14	1	Ministeriet for Udviklingsbistand	2
+5	14	1	Ministeriet for Udviklingsbistand	2
+6	14	2	Ministeriet for Udviklingsbistand	2
+7	14	1	Ministeriet for Udviklingsbistand	2
+14	14	2	Ministeriet for Udviklingsbistand	2
+1	1	132	Skatteministeriet	132
+2	1	64	Skatteministeriet	132
+3	1	131	Skatteministeriet	132
+4	1	132	Skatteministeriet	132
+5	1	75	Skatteministeriet	132
+6	1	113	Skatteministeriet	132
+7	1	72	Skatteministeriet	132
+14	1	42	Skatteministeriet	132
+1	2	64	Skatteministeriet	132
+2	2	132	Skatteministeriet	132
+3	2	63	Skatteministeriet	132
+4	2	64	Skatteministeriet	132
+5	2	96	Skatteministeriet	132
+6	2	60	Skatteministeriet	132
+7	2	92	Skatteministeriet	132
+14	2	86	Skatteministeriet	132
+1	3	131	Skatteministeriet	132
+2	3	63	Skatteministeriet	132
+3	3	132	Skatteministeriet	132
+4	3	131	Skatteministeriet	132
+5	3	74	Skatteministeriet	132
+6	3	114	Skatteministeriet	132
+7	3	71	Skatteministeriet	132
+14	3	41	Skatteministeriet	132
+1	4	132	Skatteministeriet	132
+2	4	64	Skatteministeriet	132
+3	4	131	Skatteministeriet	132
+4	4	132	Skatteministeriet	132
+5	4	75	Skatteministeriet	132
+6	4	113	Skatteministeriet	132
+7	4	72	Skatteministeriet	132
+14	4	42	Skatteministeriet	132
+1	5	75	Skatteministeriet	132
+2	5	96	Skatteministeriet	132
+3	5	74	Skatteministeriet	132
+4	5	75	Skatteministeriet	132
+5	5	132	Skatteministeriet	132
+6	5	62	Skatteministeriet	132
+7	5	124	Skatteministeriet	132
+14	5	88	Skatteministeriet	132
+1	6	113	Skatteministeriet	132
+2	6	60	Skatteministeriet	132
+3	6	114	Skatteministeriet	132
+4	6	113	Skatteministeriet	132
+5	6	62	Skatteministeriet	132
+6	6	132	Skatteministeriet	132
+7	6	59	Skatteministeriet	132
+14	6	30	Skatteministeriet	132
+1	7	72	Skatteministeriet	132
+2	7	92	Skatteministeriet	132
+3	7	71	Skatteministeriet	132
+4	7	72	Skatteministeriet	132
+5	7	124	Skatteministeriet	132
+6	7	59	Skatteministeriet	132
+7	7	132	Skatteministeriet	132
+14	7	91	Skatteministeriet	132
+1	14	42	Skatteministeriet	132
+2	14	86	Skatteministeriet	132
+3	14	41	Skatteministeriet	132
+4	14	42	Skatteministeriet	132
+5	14	88	Skatteministeriet	132
+6	14	30	Skatteministeriet	132
+7	14	91	Skatteministeriet	132
+14	14	132	Skatteministeriet	132
+1	1	1	Skatteministeriet, Justitsministeriet	1
+2	1	0	Skatteministeriet, Justitsministeriet	1
+3	1	1	Skatteministeriet, Justitsministeriet	1
+4	1	1	Skatteministeriet, Justitsministeriet	1
+5	1	0	Skatteministeriet, Justitsministeriet	1
+6	1	1	Skatteministeriet, Justitsministeriet	1
+7	1	0	Skatteministeriet, Justitsministeriet	1
+14	1	1	Skatteministeriet, Justitsministeriet	1
+1	2	0	Skatteministeriet, Justitsministeriet	1
+2	2	1	Skatteministeriet, Justitsministeriet	1
+3	2	0	Skatteministeriet, Justitsministeriet	1
+4	2	0	Skatteministeriet, Justitsministeriet	1
+5	2	1	Skatteministeriet, Justitsministeriet	1
+6	2	0	Skatteministeriet, Justitsministeriet	1
+7	2	1	Skatteministeriet, Justitsministeriet	1
+14	2	0	Skatteministeriet, Justitsministeriet	1
+1	3	1	Skatteministeriet, Justitsministeriet	1
+2	3	0	Skatteministeriet, Justitsministeriet	1
+3	3	1	Skatteministeriet, Justitsministeriet	1
+4	3	1	Skatteministeriet, Justitsministeriet	1
+5	3	0	Skatteministeriet, Justitsministeriet	1
+6	3	1	Skatteministeriet, Justitsministeriet	1
+7	3	0	Skatteministeriet, Justitsministeriet	1
+14	3	1	Skatteministeriet, Justitsministeriet	1
+1	4	1	Skatteministeriet, Justitsministeriet	1
+2	4	0	Skatteministeriet, Justitsministeriet	1
+3	4	1	Skatteministeriet, Justitsministeriet	1
+4	4	1	Skatteministeriet, Justitsministeriet	1
+5	4	0	Skatteministeriet, Justitsministeriet	1
+6	4	1	Skatteministeriet, Justitsministeriet	1
+7	4	0	Skatteministeriet, Justitsministeriet	1
+14	4	1	Skatteministeriet, Justitsministeriet	1
+1	5	0	Skatteministeriet, Justitsministeriet	1
+2	5	1	Skatteministeriet, Justitsministeriet	1
+3	5	0	Skatteministeriet, Justitsministeriet	1
+4	5	0	Skatteministeriet, Justitsministeriet	1
+5	5	1	Skatteministeriet, Justitsministeriet	1
+6	5	0	Skatteministeriet, Justitsministeriet	1
+7	5	1	Skatteministeriet, Justitsministeriet	1
+14	5	0	Skatteministeriet, Justitsministeriet	1
+1	6	1	Skatteministeriet, Justitsministeriet	1
+2	6	0	Skatteministeriet, Justitsministeriet	1
+3	6	1	Skatteministeriet, Justitsministeriet	1
+4	6	1	Skatteministeriet, Justitsministeriet	1
+5	6	0	Skatteministeriet, Justitsministeriet	1
+6	6	1	Skatteministeriet, Justitsministeriet	1
+7	6	0	Skatteministeriet, Justitsministeriet	1
+14	6	1	Skatteministeriet, Justitsministeriet	1
+1	7	0	Skatteministeriet, Justitsministeriet	1
+2	7	1	Skatteministeriet, Justitsministeriet	1
+3	7	0	Skatteministeriet, Justitsministeriet	1
+4	7	0	Skatteministeriet, Justitsministeriet	1
+5	7	1	Skatteministeriet, Justitsministeriet	1
+6	7	0	Skatteministeriet, Justitsministeriet	1
+7	7	1	Skatteministeriet, Justitsministeriet	1
+14	7	0	Skatteministeriet, Justitsministeriet	1
+1	14	1	Skatteministeriet, Justitsministeriet	1
+2	14	0	Skatteministeriet, Justitsministeriet	1
+3	14	1	Skatteministeriet, Justitsministeriet	1
+4	14	1	Skatteministeriet, Justitsministeriet	1
+5	14	0	Skatteministeriet, Justitsministeriet	1
+6	14	1	Skatteministeriet, Justitsministeriet	1
+7	14	0	Skatteministeriet, Justitsministeriet	1
+14	14	1	Skatteministeriet, Justitsministeriet	1
+1	1	47	Social- og Integrationsministeriet	47
+2	1	27	Social- og Integrationsministeriet	47
+3	1	47	Social- og Integrationsministeriet	47
+4	1	47	Social- og Integrationsministeriet	47
+5	1	35	Social- og Integrationsministeriet	47
+6	1	30	Social- og Integrationsministeriet	47
+7	1	33	Social- og Integrationsministeriet	47
+14	1	34	Social- og Integrationsministeriet	47
+1	2	27	Social- og Integrationsministeriet	47
+2	2	47	Social- og Integrationsministeriet	47
+3	2	27	Social- og Integrationsministeriet	47
+4	2	27	Social- og Integrationsministeriet	47
+5	2	36	Social- og Integrationsministeriet	47
+6	2	15	Social- og Integrationsministeriet	47
+7	2	40	Social- og Integrationsministeriet	47
+14	2	32	Social- og Integrationsministeriet	47
+1	3	47	Social- og Integrationsministeriet	47
+2	3	27	Social- og Integrationsministeriet	47
+3	3	47	Social- og Integrationsministeriet	47
+4	3	47	Social- og Integrationsministeriet	47
+5	3	35	Social- og Integrationsministeriet	47
+6	3	30	Social- og Integrationsministeriet	47
+7	3	33	Social- og Integrationsministeriet	47
+14	3	34	Social- og Integrationsministeriet	47
+1	4	47	Social- og Integrationsministeriet	47
+2	4	27	Social- og Integrationsministeriet	47
+3	4	47	Social- og Integrationsministeriet	47
+4	4	47	Social- og Integrationsministeriet	47
+5	4	35	Social- og Integrationsministeriet	47
+6	4	30	Social- og Integrationsministeriet	47
+7	4	33	Social- og Integrationsministeriet	47
+14	4	34	Social- og Integrationsministeriet	47
+1	5	35	Social- og Integrationsministeriet	47
+2	5	36	Social- og Integrationsministeriet	47
+3	5	35	Social- og Integrationsministeriet	47
+4	5	35	Social- og Integrationsministeriet	47
+5	5	47	Social- og Integrationsministeriet	47
+6	5	18	Social- og Integrationsministeriet	47
+7	5	43	Social- og Integrationsministeriet	47
+14	5	33	Social- og Integrationsministeriet	47
+1	6	30	Social- og Integrationsministeriet	47
+2	6	15	Social- og Integrationsministeriet	47
+3	6	30	Social- og Integrationsministeriet	47
+4	6	30	Social- og Integrationsministeriet	47
+5	6	18	Social- og Integrationsministeriet	47
+6	6	47	Social- og Integrationsministeriet	47
+7	6	16	Social- og Integrationsministeriet	47
+14	6	26	Social- og Integrationsministeriet	47
+1	7	33	Social- og Integrationsministeriet	47
+2	7	40	Social- og Integrationsministeriet	47
+3	7	33	Social- og Integrationsministeriet	47
+4	7	33	Social- og Integrationsministeriet	47
+5	7	43	Social- og Integrationsministeriet	47
+6	7	16	Social- og Integrationsministeriet	47
+7	7	47	Social- og Integrationsministeriet	47
+14	7	33	Social- og Integrationsministeriet	47
+1	14	34	Social- og Integrationsministeriet	47
+2	14	32	Social- og Integrationsministeriet	47
+3	14	34	Social- og Integrationsministeriet	47
+4	14	34	Social- og Integrationsministeriet	47
+5	14	33	Social- og Integrationsministeriet	47
+6	14	26	Social- og Integrationsministeriet	47
+7	14	33	Social- og Integrationsministeriet	47
+14	14	47	Social- og Integrationsministeriet	47
+1	1	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	1	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	1	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	1	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	1	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	1	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	1	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	1	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	2	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	2	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	2	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	2	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	2	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	2	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	2	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	2	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	3	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	3	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	3	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	3	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	3	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	3	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	3	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	3	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	4	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	4	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	4	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	4	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	4	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	4	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	4	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	4	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	5	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	5	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	5	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	5	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	5	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	5	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	5	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	5	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	6	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	6	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	6	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	6	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	6	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	6	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	6	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	6	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	7	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	7	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	7	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	7	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	7	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	7	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	7	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	7	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	14	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+2	14	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+3	14	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+4	14	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+5	14	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+6	14	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+7	14	0	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+14	14	1	Social- og Integrationsministeriet, Ministeriet for Ligestilling og Kirke	1
+1	1	10	Social-, børne- og integrationsministeriet	10
+2	1	7	Social-, børne- og integrationsministeriet	10
+3	1	10	Social-, børne- og integrationsministeriet	10
+4	1	10	Social-, børne- og integrationsministeriet	10
+5	1	9	Social-, børne- og integrationsministeriet	10
+6	1	10	Social-, børne- og integrationsministeriet	10
+7	1	9	Social-, børne- og integrationsministeriet	10
+14	1	9	Social-, børne- og integrationsministeriet	10
+1	2	7	Social-, børne- og integrationsministeriet	10
+2	2	10	Social-, børne- og integrationsministeriet	10
+3	2	7	Social-, børne- og integrationsministeriet	10
+4	2	7	Social-, børne- og integrationsministeriet	10
+5	2	8	Social-, børne- og integrationsministeriet	10
+6	2	7	Social-, børne- og integrationsministeriet	10
+7	2	8	Social-, børne- og integrationsministeriet	10
+14	2	8	Social-, børne- og integrationsministeriet	10
+1	3	10	Social-, børne- og integrationsministeriet	10
+2	3	7	Social-, børne- og integrationsministeriet	10
+3	3	10	Social-, børne- og integrationsministeriet	10
+4	3	10	Social-, børne- og integrationsministeriet	10
+5	3	9	Social-, børne- og integrationsministeriet	10
+6	3	10	Social-, børne- og integrationsministeriet	10
+7	3	9	Social-, børne- og integrationsministeriet	10
+14	3	9	Social-, børne- og integrationsministeriet	10
+1	4	10	Social-, børne- og integrationsministeriet	10
+2	4	7	Social-, børne- og integrationsministeriet	10
+3	4	10	Social-, børne- og integrationsministeriet	10
+4	4	10	Social-, børne- og integrationsministeriet	10
+5	4	9	Social-, børne- og integrationsministeriet	10
+6	4	10	Social-, børne- og integrationsministeriet	10
+7	4	9	Social-, børne- og integrationsministeriet	10
+14	4	9	Social-, børne- og integrationsministeriet	10
+1	5	9	Social-, børne- og integrationsministeriet	10
+2	5	8	Social-, børne- og integrationsministeriet	10
+3	5	9	Social-, børne- og integrationsministeriet	10
+4	5	9	Social-, børne- og integrationsministeriet	10
+5	5	10	Social-, børne- og integrationsministeriet	10
+6	5	9	Social-, børne- og integrationsministeriet	10
+7	5	10	Social-, børne- og integrationsministeriet	10
+14	5	10	Social-, børne- og integrationsministeriet	10
+1	6	10	Social-, børne- og integrationsministeriet	10
+2	6	7	Social-, børne- og integrationsministeriet	10
+3	6	10	Social-, børne- og integrationsministeriet	10
+4	6	10	Social-, børne- og integrationsministeriet	10
+5	6	9	Social-, børne- og integrationsministeriet	10
+6	6	10	Social-, børne- og integrationsministeriet	10
+7	6	9	Social-, børne- og integrationsministeriet	10
+14	6	9	Social-, børne- og integrationsministeriet	10
+1	7	9	Social-, børne- og integrationsministeriet	10
+2	7	8	Social-, børne- og integrationsministeriet	10
+3	7	9	Social-, børne- og integrationsministeriet	10
+4	7	9	Social-, børne- og integrationsministeriet	10
+5	7	10	Social-, børne- og integrationsministeriet	10
+6	7	9	Social-, børne- og integrationsministeriet	10
+7	7	10	Social-, børne- og integrationsministeriet	10
+14	7	10	Social-, børne- og integrationsministeriet	10
+1	14	9	Social-, børne- og integrationsministeriet	10
+2	14	8	Social-, børne- og integrationsministeriet	10
+3	14	9	Social-, børne- og integrationsministeriet	10
+4	14	9	Social-, børne- og integrationsministeriet	10
+5	14	10	Social-, børne- og integrationsministeriet	10
+6	14	9	Social-, børne- og integrationsministeriet	10
+7	14	10	Social-, børne- og integrationsministeriet	10
+14	14	10	Social-, børne- og integrationsministeriet	10
+1	1	15	Statsministeriet	15
+2	1	4	Statsministeriet	15
+3	1	14	Statsministeriet	15
+4	1	15	Statsministeriet	15
+5	1	7	Statsministeriet	15
+6	1	12	Statsministeriet	15
+7	1	7	Statsministeriet	15
+14	1	6	Statsministeriet	15
+1	2	4	Statsministeriet	15
+2	2	15	Statsministeriet	15
+3	2	3	Statsministeriet	15
+4	2	4	Statsministeriet	15
+5	2	12	Statsministeriet	15
+6	2	5	Statsministeriet	15
+7	2	12	Statsministeriet	15
+14	2	12	Statsministeriet	15
+1	3	14	Statsministeriet	15
+2	3	3	Statsministeriet	15
+3	3	15	Statsministeriet	15
+4	3	14	Statsministeriet	15
+5	3	6	Statsministeriet	15
+6	3	13	Statsministeriet	15
+7	3	6	Statsministeriet	15
+14	3	5	Statsministeriet	15
+1	4	15	Statsministeriet	15
+2	4	4	Statsministeriet	15
+3	4	14	Statsministeriet	15
+4	4	15	Statsministeriet	15
+5	4	7	Statsministeriet	15
+6	4	12	Statsministeriet	15
+7	4	7	Statsministeriet	15
+14	4	6	Statsministeriet	15
+1	5	7	Statsministeriet	15
+2	5	12	Statsministeriet	15
+3	5	6	Statsministeriet	15
+4	5	7	Statsministeriet	15
+5	5	15	Statsministeriet	15
+6	5	4	Statsministeriet	15
+7	5	15	Statsministeriet	15
+14	5	13	Statsministeriet	15
+1	6	12	Statsministeriet	15
+2	6	5	Statsministeriet	15
+3	6	13	Statsministeriet	15
+4	6	12	Statsministeriet	15
+5	6	4	Statsministeriet	15
+6	6	15	Statsministeriet	15
+7	6	4	Statsministeriet	15
+14	6	5	Statsministeriet	15
+1	7	7	Statsministeriet	15
+2	7	12	Statsministeriet	15
+3	7	6	Statsministeriet	15
+4	7	7	Statsministeriet	15
+5	7	15	Statsministeriet	15
+6	7	4	Statsministeriet	15
+7	7	15	Statsministeriet	15
+14	7	13	Statsministeriet	15
+1	14	6	Statsministeriet	15
+2	14	12	Statsministeriet	15
+3	14	5	Statsministeriet	15
+4	14	6	Statsministeriet	15
+5	14	13	Statsministeriet	15
+6	14	5	Statsministeriet	15
+7	14	13	Statsministeriet	15
+14	14	15	Statsministeriet	15
+1	1	2	Statsministeriet, Europaministeriet	2
+2	1	0	Statsministeriet, Europaministeriet	2
+3	1	2	Statsministeriet, Europaministeriet	2
+4	1	2	Statsministeriet, Europaministeriet	2
+5	1	2	Statsministeriet, Europaministeriet	2
+6	1	0	Statsministeriet, Europaministeriet	2
+7	1	2	Statsministeriet, Europaministeriet	2
+14	1	0	Statsministeriet, Europaministeriet	2
+1	2	0	Statsministeriet, Europaministeriet	2
+2	2	2	Statsministeriet, Europaministeriet	2
+3	2	0	Statsministeriet, Europaministeriet	2
+4	2	0	Statsministeriet, Europaministeriet	2
+5	2	0	Statsministeriet, Europaministeriet	2
+6	2	2	Statsministeriet, Europaministeriet	2
+7	2	0	Statsministeriet, Europaministeriet	2
+14	2	2	Statsministeriet, Europaministeriet	2
+1	3	2	Statsministeriet, Europaministeriet	2
+2	3	0	Statsministeriet, Europaministeriet	2
+3	3	2	Statsministeriet, Europaministeriet	2
+4	3	2	Statsministeriet, Europaministeriet	2
+5	3	2	Statsministeriet, Europaministeriet	2
+6	3	0	Statsministeriet, Europaministeriet	2
+7	3	2	Statsministeriet, Europaministeriet	2
+14	3	0	Statsministeriet, Europaministeriet	2
+1	4	2	Statsministeriet, Europaministeriet	2
+2	4	0	Statsministeriet, Europaministeriet	2
+3	4	2	Statsministeriet, Europaministeriet	2
+4	4	2	Statsministeriet, Europaministeriet	2
+5	4	2	Statsministeriet, Europaministeriet	2
+6	4	0	Statsministeriet, Europaministeriet	2
+7	4	2	Statsministeriet, Europaministeriet	2
+14	4	0	Statsministeriet, Europaministeriet	2
+1	5	2	Statsministeriet, Europaministeriet	2
+2	5	0	Statsministeriet, Europaministeriet	2
+3	5	2	Statsministeriet, Europaministeriet	2
+4	5	2	Statsministeriet, Europaministeriet	2
+5	5	2	Statsministeriet, Europaministeriet	2
+6	5	0	Statsministeriet, Europaministeriet	2
+7	5	2	Statsministeriet, Europaministeriet	2
+14	5	0	Statsministeriet, Europaministeriet	2
+1	6	0	Statsministeriet, Europaministeriet	2
+2	6	2	Statsministeriet, Europaministeriet	2
+3	6	0	Statsministeriet, Europaministeriet	2
+4	6	0	Statsministeriet, Europaministeriet	2
+5	6	0	Statsministeriet, Europaministeriet	2
+6	6	2	Statsministeriet, Europaministeriet	2
+7	6	0	Statsministeriet, Europaministeriet	2
+14	6	2	Statsministeriet, Europaministeriet	2
+1	7	2	Statsministeriet, Europaministeriet	2
+2	7	0	Statsministeriet, Europaministeriet	2
+3	7	2	Statsministeriet, Europaministeriet	2
+4	7	2	Statsministeriet, Europaministeriet	2
+5	7	2	Statsministeriet, Europaministeriet	2
+6	7	0	Statsministeriet, Europaministeriet	2
+7	7	2	Statsministeriet, Europaministeriet	2
+14	7	0	Statsministeriet, Europaministeriet	2
+1	14	0	Statsministeriet, Europaministeriet	2
+2	14	2	Statsministeriet, Europaministeriet	2
+3	14	0	Statsministeriet, Europaministeriet	2
+4	14	0	Statsministeriet, Europaministeriet	2
+5	14	0	Statsministeriet, Europaministeriet	2
+6	14	2	Statsministeriet, Europaministeriet	2
+7	14	0	Statsministeriet, Europaministeriet	2
+14	14	2	Statsministeriet, Europaministeriet	2
+1	1	73	Transportministeriet	73
+2	1	47	Transportministeriet	73
+3	1	71	Transportministeriet	73
+4	1	73	Transportministeriet	73
+5	1	53	Transportministeriet	73
+6	1	39	Transportministeriet	73
+7	1	56	Transportministeriet	73
+14	1	48	Transportministeriet	73
+1	2	47	Transportministeriet	73
+2	2	73	Transportministeriet	73
+3	2	49	Transportministeriet	73
+4	2	47	Transportministeriet	73
+5	2	51	Transportministeriet	73
+6	2	35	Transportministeriet	73
+7	2	49	Transportministeriet	73
+14	2	48	Transportministeriet	73
+1	3	71	Transportministeriet	73
+2	3	49	Transportministeriet	73
+3	3	73	Transportministeriet	73
+4	3	71	Transportministeriet	73
+5	3	51	Transportministeriet	73
+6	3	41	Transportministeriet	73
+7	3	54	Transportministeriet	73
+14	3	48	Transportministeriet	73
+1	4	73	Transportministeriet	73
+2	4	47	Transportministeriet	73
+3	4	71	Transportministeriet	73
+4	4	73	Transportministeriet	73
+5	4	53	Transportministeriet	73
+6	4	39	Transportministeriet	73
+7	4	56	Transportministeriet	73
+14	4	48	Transportministeriet	73
+1	5	53	Transportministeriet	73
+2	5	51	Transportministeriet	73
+3	5	51	Transportministeriet	73
+4	5	53	Transportministeriet	73
+5	5	73	Transportministeriet	73
+6	5	19	Transportministeriet	73
+7	5	66	Transportministeriet	73
+14	5	64	Transportministeriet	73
+1	6	39	Transportministeriet	73
+2	6	35	Transportministeriet	73
+3	6	41	Transportministeriet	73
+4	6	39	Transportministeriet	73
+5	6	19	Transportministeriet	73
+6	6	73	Transportministeriet	73
+7	6	24	Transportministeriet	73
+14	6	20	Transportministeriet	73
+1	7	56	Transportministeriet	73
+2	7	49	Transportministeriet	73
+3	7	54	Transportministeriet	73
+4	7	56	Transportministeriet	73
+5	7	66	Transportministeriet	73
+6	7	24	Transportministeriet	73
+7	7	73	Transportministeriet	73
+14	7	59	Transportministeriet	73
+1	14	48	Transportministeriet	73
+2	14	48	Transportministeriet	73
+3	14	48	Transportministeriet	73
+4	14	48	Transportministeriet	73
+5	14	64	Transportministeriet	73
+6	14	20	Transportministeriet	73
+7	14	59	Transportministeriet	73
+14	14	73	Transportministeriet	73
+1	1	7	Uddannelses- og Forskningsministeriet	7
+2	1	7	Uddannelses- og Forskningsministeriet	7
+3	1	7	Uddannelses- og Forskningsministeriet	7
+4	1	7	Uddannelses- og Forskningsministeriet	7
+5	1	7	Uddannelses- og Forskningsministeriet	7
+6	1	7	Uddannelses- og Forskningsministeriet	7
+7	1	7	Uddannelses- og Forskningsministeriet	7
+14	1	6	Uddannelses- og Forskningsministeriet	7
+1	2	7	Uddannelses- og Forskningsministeriet	7
+2	2	7	Uddannelses- og Forskningsministeriet	7
+3	2	7	Uddannelses- og Forskningsministeriet	7
+4	2	7	Uddannelses- og Forskningsministeriet	7
+5	2	7	Uddannelses- og Forskningsministeriet	7
+6	2	7	Uddannelses- og Forskningsministeriet	7
+7	2	7	Uddannelses- og Forskningsministeriet	7
+14	2	6	Uddannelses- og Forskningsministeriet	7
+1	3	7	Uddannelses- og Forskningsministeriet	7
+2	3	7	Uddannelses- og Forskningsministeriet	7
+3	3	7	Uddannelses- og Forskningsministeriet	7
+4	3	7	Uddannelses- og Forskningsministeriet	7
+5	3	7	Uddannelses- og Forskningsministeriet	7
+6	3	7	Uddannelses- og Forskningsministeriet	7
+7	3	7	Uddannelses- og Forskningsministeriet	7
+14	3	6	Uddannelses- og Forskningsministeriet	7
+1	4	7	Uddannelses- og Forskningsministeriet	7
+2	4	7	Uddannelses- og Forskningsministeriet	7
+3	4	7	Uddannelses- og Forskningsministeriet	7
+4	4	7	Uddannelses- og Forskningsministeriet	7
+5	4	7	Uddannelses- og Forskningsministeriet	7
+6	4	7	Uddannelses- og Forskningsministeriet	7
+7	4	7	Uddannelses- og Forskningsministeriet	7
+14	4	6	Uddannelses- og Forskningsministeriet	7
+1	5	7	Uddannelses- og Forskningsministeriet	7
+2	5	7	Uddannelses- og Forskningsministeriet	7
+3	5	7	Uddannelses- og Forskningsministeriet	7
+4	5	7	Uddannelses- og Forskningsministeriet	7
+5	5	7	Uddannelses- og Forskningsministeriet	7
+6	5	7	Uddannelses- og Forskningsministeriet	7
+7	5	7	Uddannelses- og Forskningsministeriet	7
+14	5	6	Uddannelses- og Forskningsministeriet	7
+1	6	7	Uddannelses- og Forskningsministeriet	7
+2	6	7	Uddannelses- og Forskningsministeriet	7
+3	6	7	Uddannelses- og Forskningsministeriet	7
+4	6	7	Uddannelses- og Forskningsministeriet	7
+5	6	7	Uddannelses- og Forskningsministeriet	7
+6	6	7	Uddannelses- og Forskningsministeriet	7
+7	6	7	Uddannelses- og Forskningsministeriet	7
+14	6	6	Uddannelses- og Forskningsministeriet	7
+1	7	7	Uddannelses- og Forskningsministeriet	7
+2	7	7	Uddannelses- og Forskningsministeriet	7
+3	7	7	Uddannelses- og Forskningsministeriet	7
+4	7	7	Uddannelses- og Forskningsministeriet	7
+5	7	7	Uddannelses- og Forskningsministeriet	7
+6	7	7	Uddannelses- og Forskningsministeriet	7
+7	7	7	Uddannelses- og Forskningsministeriet	7
+14	7	6	Uddannelses- og Forskningsministeriet	7
+1	14	6	Uddannelses- og Forskningsministeriet	7
+2	14	6	Uddannelses- og Forskningsministeriet	7
+3	14	6	Uddannelses- og Forskningsministeriet	7
+4	14	6	Uddannelses- og Forskningsministeriet	7
+5	14	6	Uddannelses- og Forskningsministeriet	7
+6	14	6	Uddannelses- og Forskningsministeriet	7
+7	14	6	Uddannelses- og Forskningsministeriet	7
+14	14	7	Uddannelses- og Forskningsministeriet	7
+1	1	26	Udenrigsministeriet	26
+2	1	17	Udenrigsministeriet	26
+3	1	26	Udenrigsministeriet	26
+4	1	26	Udenrigsministeriet	26
+5	1	24	Udenrigsministeriet	26
+6	1	12	Udenrigsministeriet	26
+7	1	23	Udenrigsministeriet	26
+14	1	22	Udenrigsministeriet	26
+1	2	17	Udenrigsministeriet	26
+2	2	26	Udenrigsministeriet	26
+3	2	17	Udenrigsministeriet	26
+4	2	17	Udenrigsministeriet	26
+5	2	17	Udenrigsministeriet	26
+6	2	7	Udenrigsministeriet	26
+7	2	18	Udenrigsministeriet	26
+14	2	19	Udenrigsministeriet	26
+1	3	26	Udenrigsministeriet	26
+2	3	17	Udenrigsministeriet	26
+3	3	26	Udenrigsministeriet	26
+4	3	26	Udenrigsministeriet	26
+5	3	24	Udenrigsministeriet	26
+6	3	12	Udenrigsministeriet	26
+7	3	23	Udenrigsministeriet	26
+14	3	22	Udenrigsministeriet	26
+1	4	26	Udenrigsministeriet	26
+2	4	17	Udenrigsministeriet	26
+3	4	26	Udenrigsministeriet	26
+4	4	26	Udenrigsministeriet	26
+5	4	24	Udenrigsministeriet	26
+6	4	12	Udenrigsministeriet	26
+7	4	23	Udenrigsministeriet	26
+14	4	22	Udenrigsministeriet	26
+1	5	24	Udenrigsministeriet	26
+2	5	17	Udenrigsministeriet	26
+3	5	24	Udenrigsministeriet	26
+4	5	24	Udenrigsministeriet	26
+5	5	26	Udenrigsministeriet	26
+6	5	12	Udenrigsministeriet	26
+7	5	25	Udenrigsministeriet	26
+14	5	24	Udenrigsministeriet	26
+1	6	12	Udenrigsministeriet	26
+2	6	7	Udenrigsministeriet	26
+3	6	12	Udenrigsministeriet	26
+4	6	12	Udenrigsministeriet	26
+5	6	12	Udenrigsministeriet	26
+6	6	26	Udenrigsministeriet	26
+7	6	11	Udenrigsministeriet	26
+14	6	10	Udenrigsministeriet	26
+1	7	23	Udenrigsministeriet	26
+2	7	18	Udenrigsministeriet	26
+3	7	23	Udenrigsministeriet	26
+4	7	23	Udenrigsministeriet	26
+5	7	25	Udenrigsministeriet	26
+6	7	11	Udenrigsministeriet	26
+7	7	26	Udenrigsministeriet	26
+14	7	23	Udenrigsministeriet	26
+1	14	22	Udenrigsministeriet	26
+2	14	19	Udenrigsministeriet	26
+3	14	22	Udenrigsministeriet	26
+4	14	22	Udenrigsministeriet	26
+5	14	24	Udenrigsministeriet	26
+6	14	10	Udenrigsministeriet	26
+7	14	23	Udenrigsministeriet	26
+14	14	26	Udenrigsministeriet	26
+1	1	18	Undervisningsministeriet	18
+2	1	15	Undervisningsministeriet	18
+3	1	18	Undervisningsministeriet	18
+4	1	18	Undervisningsministeriet	18
+5	1	15	Undervisningsministeriet	18
+6	1	11	Undervisningsministeriet	18
+7	1	16	Undervisningsministeriet	18
+14	1	11	Undervisningsministeriet	18
+1	2	15	Undervisningsministeriet	18
+2	2	18	Undervisningsministeriet	18
+3	2	15	Undervisningsministeriet	18
+4	2	15	Undervisningsministeriet	18
+5	2	16	Undervisningsministeriet	18
+6	2	10	Undervisningsministeriet	18
+7	2	13	Undervisningsministeriet	18
+14	2	14	Undervisningsministeriet	18
+1	3	18	Undervisningsministeriet	18
+2	3	15	Undervisningsministeriet	18
+3	3	18	Undervisningsministeriet	18
+4	3	18	Undervisningsministeriet	18
+5	3	15	Undervisningsministeriet	18
+6	3	11	Undervisningsministeriet	18
+7	3	16	Undervisningsministeriet	18
+14	3	11	Undervisningsministeriet	18
+1	4	18	Undervisningsministeriet	18
+2	4	15	Undervisningsministeriet	18
+3	4	18	Undervisningsministeriet	18
+4	4	18	Undervisningsministeriet	18
+5	4	15	Undervisningsministeriet	18
+6	4	11	Undervisningsministeriet	18
+7	4	16	Undervisningsministeriet	18
+14	4	11	Undervisningsministeriet	18
+1	5	15	Undervisningsministeriet	18
+2	5	16	Undervisningsministeriet	18
+3	5	15	Undervisningsministeriet	18
+4	5	15	Undervisningsministeriet	18
+5	5	18	Undervisningsministeriet	18
+6	5	8	Undervisningsministeriet	18
+7	5	15	Undervisningsministeriet	18
+14	5	14	Undervisningsministeriet	18
+1	6	11	Undervisningsministeriet	18
+2	6	10	Undervisningsministeriet	18
+3	6	11	Undervisningsministeriet	18
+4	6	11	Undervisningsministeriet	18
+5	6	8	Undervisningsministeriet	18
+6	6	18	Undervisningsministeriet	18
+7	6	9	Undervisningsministeriet	18
+14	6	10	Undervisningsministeriet	18
+1	7	16	Undervisningsministeriet	18
+2	7	13	Undervisningsministeriet	18
+3	7	16	Undervisningsministeriet	18
+4	7	16	Undervisningsministeriet	18
+5	7	15	Undervisningsministeriet	18
+6	7	9	Undervisningsministeriet	18
+7	7	18	Undervisningsministeriet	18
+14	7	13	Undervisningsministeriet	18
+1	14	11	Undervisningsministeriet	18
+2	14	14	Undervisningsministeriet	18
+3	14	11	Undervisningsministeriet	18
+4	14	11	Undervisningsministeriet	18
+5	14	14	Undervisningsministeriet	18
+6	14	10	Undervisningsministeriet	18
+7	14	13	Undervisningsministeriet	18
+14	14	18	Undervisningsministeriet	18
+1	1	64	Økonomi- og Indenrigsministeriet	64
+2	1	40	Økonomi- og Indenrigsministeriet	64
+3	1	63	Økonomi- og Indenrigsministeriet	64
+4	1	64	Økonomi- og Indenrigsministeriet	64
+5	1	43	Økonomi- og Indenrigsministeriet	64
+6	1	39	Økonomi- og Indenrigsministeriet	64
+7	1	39	Økonomi- og Indenrigsministeriet	64
+14	1	44	Økonomi- og Indenrigsministeriet	64
+1	2	40	Økonomi- og Indenrigsministeriet	64
+2	2	64	Økonomi- og Indenrigsministeriet	64
+3	2	41	Økonomi- og Indenrigsministeriet	64
+4	2	40	Økonomi- og Indenrigsministeriet	64
+5	2	58	Økonomi- og Indenrigsministeriet	64
+6	2	21	Økonomi- og Indenrigsministeriet	64
+7	2	55	Økonomi- og Indenrigsministeriet	64
+14	2	48	Økonomi- og Indenrigsministeriet	64
+1	3	63	Økonomi- og Indenrigsministeriet	64
+2	3	41	Økonomi- og Indenrigsministeriet	64
+3	3	64	Økonomi- og Indenrigsministeriet	64
+4	3	63	Økonomi- og Indenrigsministeriet	64
+5	3	42	Økonomi- og Indenrigsministeriet	64
+6	3	40	Økonomi- og Indenrigsministeriet	64
+7	3	38	Økonomi- og Indenrigsministeriet	64
+14	3	43	Økonomi- og Indenrigsministeriet	64
+1	4	64	Økonomi- og Indenrigsministeriet	64
+2	4	40	Økonomi- og Indenrigsministeriet	64
+3	4	63	Økonomi- og Indenrigsministeriet	64
+4	4	64	Økonomi- og Indenrigsministeriet	64
+5	4	43	Økonomi- og Indenrigsministeriet	64
+6	4	39	Økonomi- og Indenrigsministeriet	64
+7	4	39	Økonomi- og Indenrigsministeriet	64
+14	4	44	Økonomi- og Indenrigsministeriet	64
+1	5	43	Økonomi- og Indenrigsministeriet	64
+2	5	58	Økonomi- og Indenrigsministeriet	64
+3	5	42	Økonomi- og Indenrigsministeriet	64
+4	5	43	Økonomi- og Indenrigsministeriet	64
+5	5	64	Økonomi- og Indenrigsministeriet	64
+6	5	18	Økonomi- og Indenrigsministeriet	64
+7	5	57	Økonomi- og Indenrigsministeriet	64
+14	5	50	Økonomi- og Indenrigsministeriet	64
+1	6	39	Økonomi- og Indenrigsministeriet	64
+2	6	21	Økonomi- og Indenrigsministeriet	64
+3	6	40	Økonomi- og Indenrigsministeriet	64
+4	6	39	Økonomi- og Indenrigsministeriet	64
+5	6	18	Økonomi- og Indenrigsministeriet	64
+6	6	64	Økonomi- og Indenrigsministeriet	64
+7	6	22	Økonomi- og Indenrigsministeriet	64
+14	6	29	Økonomi- og Indenrigsministeriet	64
+1	7	39	Økonomi- og Indenrigsministeriet	64
+2	7	55	Økonomi- og Indenrigsministeriet	64
+3	7	38	Økonomi- og Indenrigsministeriet	64
+4	7	39	Økonomi- og Indenrigsministeriet	64
+5	7	57	Økonomi- og Indenrigsministeriet	64
+6	7	22	Økonomi- og Indenrigsministeriet	64
+7	7	64	Økonomi- og Indenrigsministeriet	64
+14	7	49	Økonomi- og Indenrigsministeriet	64
+1	14	44	Økonomi- og Indenrigsministeriet	64
+2	14	48	Økonomi- og Indenrigsministeriet	64
+3	14	43	Økonomi- og Indenrigsministeriet	64
+4	14	44	Økonomi- og Indenrigsministeriet	64
+5	14	50	Økonomi- og Indenrigsministeriet	64
+6	14	29	Økonomi- og Indenrigsministeriet	64
+7	14	49	Økonomi- og Indenrigsministeriet	64
+14	14	64	Økonomi- og Indenrigsministeriet	64
